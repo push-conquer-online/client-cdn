@@ -1,0 +1,3224 @@
+{
+    "schema":  1,
+    "version":  "2026.05.31.1",
+    "generated_utc":  "2026-05-31T18:38:24Z",
+    "min_launcher_version":  "1.1.0",
+    "files":  [
+                  {
+                      "path":  "Server.dat",
+                      "sha256":  "b89be6b21f94e4dc48717b1914673c6108c70be8785709be59523af2bd068891",
+                      "size":  191,
+                      "url":  "v2026.05.31.1/Server.dat"
+                  },
+                  {
+                      "path":  "data/interface/compose/ComposeBG.dds",
+                      "sha256":  "cb578ed36cc6df7907c413ba5df97545f55a5a45984fc73837a642b78d1fee33",
+                      "size":  262272,
+                      "url":  "v2026.05.31.1/data/interface/compose/ComposeBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/compose/ComposeBtnClick.dds",
+                      "sha256":  "5ee75b2280005a70dc71a5bbb1d747619afb724628bac89c47eb6c7efe63b027",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/compose/ComposeBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/compose/ComposeBtnEmboss.dds",
+                      "sha256":  "6ad5ad979e352908fdf60b3b16f6f02d2d9548738e450f244504fbbc69bb8c32",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/compose/ComposeBtnEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/compose/ComposeBtnNormal.dds",
+                      "sha256":  "6bf9691b89dede82f0fe99c7c3df180071de1e5e417a65b88292a3ad2a037015",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/compose/ComposeBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/compose/ComposeBtnUnclick.dds",
+                      "sha256":  "7e8bfda6c7670c59d4de73a31cc59a19e2a0b0d4227d5218afcc4e0d1aacd898",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/compose/ComposeBtnUnclick.dds"
+                  },
+                  {
+                      "path":  "data/interface/compose/Composetitle.dds",
+                      "sha256":  "a01e11d70e61b5d64583ca1fa1fb11149636773eab3c0ce13757608d6f4a4e71",
+                      "size":  144,
+                      "url":  "v2026.05.31.1/data/interface/compose/Composetitle.dds"
+                  },
+                  {
+                      "path":  "data/interface/compose/CoverPic.dds",
+                      "sha256":  "18d15fd7460489c7230e3b172cf5f3ea994f1c5075054319f8e4df33526ddc1f",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/compose/CoverPic.dds"
+                  },
+                  {
+                      "path":  "data/interface/compose/ExperienceGPic.dds",
+                      "sha256":  "a5676e2e1e407d920ab879640bcb60cc91a0edddebea1e7c7385de6186e79d01",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/compose/ExperienceGPic.dds"
+                  },
+                  {
+                      "path":  "data/interface/compose/ExperienceYPic.dds",
+                      "sha256":  "f034be3ba52d921d4b081432d19c3f677711277262b4240262faa6a44663f16a",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/compose/ExperienceYPic.dds"
+                  },
+                  {
+                      "path":  "data/interface/compose/SecretBG.dds",
+                      "sha256":  "4d747ab3345baf4d786556d1d40f1cd1db07fe68575f238637d7cba04de95791",
+                      "size":  65664,
+                      "url":  "v2026.05.31.1/data/interface/compose/SecretBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/compose/SecretBtnClick.dds",
+                      "sha256":  "5d084acc705bb9e95d66db8c70bbad3cdace17e32533a7ccef192fee5b8a9741",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/compose/SecretBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/compose/SecretBtnEmboss.dds",
+                      "sha256":  "1b7377dff7c79308afe425871a7a66409f8b44154d057267456b427c43e34643",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/compose/SecretBtnEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/compose/SecretBtnNormal.dds",
+                      "sha256":  "ad39682edd6d0f937db2c5749d953700ff70a52a1422a0a7260ea16fda35d07c",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/compose/SecretBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/EquipTie/CloseBtnclick.dds",
+                      "sha256":  "a9a31621b55bb2ae90473ddaf2a30c3873b11c453d4316b800dfce450cb401be",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/EquipTie/CloseBtnclick.dds"
+                  },
+                  {
+                      "path":  "data/interface/EquipTie/CloseBtnNormal.dds",
+                      "sha256":  "01949be6fdec5d861a7e4410a6f2948da5f31dc41858e304ff6902b0a6c95c41",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/EquipTie/CloseBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/EquipTie/RavelTieBtnClick.dds",
+                      "sha256":  "c2fd3e6058eb2401842d667335191eca7cf1420daad62457151f720bece806e5",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/EquipTie/RavelTieBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/EquipTie/RavelTieBtnNormal.dds",
+                      "sha256":  "1d9a179a361d86a569031e57110a0ff5981521c60fca426557318abf06d02256",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/EquipTie/RavelTieBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/EquipTie/ReTieBtnClick.dds",
+                      "sha256":  "60e5a51c6ecba8295d2169bbe102c0abe36ec4063b7e59b0548c9a03fd74d425",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/EquipTie/ReTieBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/EquipTie/ReTieBtnNormal.dds",
+                      "sha256":  "b2659683fe01d2bb0cb52990cc12d2eb2c0a51f4c36e788f2ca15bd185e58b8b",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/EquipTie/ReTieBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/EquipTie/TieBG.dds",
+                      "sha256":  "0a1f2d9b4a64044c312a1ca13a34ff77c51e4e4448f729e38a7e4bdaabf38b5c",
+                      "size":  131200,
+                      "url":  "v2026.05.31.1/data/interface/EquipTie/TieBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/EquipTie/TieBtnClick.dds",
+                      "sha256":  "9315398f8b1ac6cc48c292fc1fa551ca4470352398206ede557cb37eb0c6905f",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/EquipTie/TieBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/EquipTie/TieBtnNormal.dds",
+                      "sha256":  "6959a45bee94b901d2b8c259d6a46c9b0cd5b0762809a909674d58339b5d58d7",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/EquipTie/TieBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/EquipTie/TieIco.dds",
+                      "sha256":  "208aff4ecc347856d2952d8281e1c95ccf3d0db6f04e34a95e2df0e16a9e3ebb",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/EquipTie/TieIco.dds"
+                  },
+                  {
+                      "path":  "data/interface/EquipTie/TieLockBtnClick.dds",
+                      "sha256":  "ea9712afaa1c7b9d79ce96175b731799a92db3fe6382e66d6954ca60027f1e50",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/EquipTie/TieLockBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/EquipTie/TieLockBtnNormal.dds",
+                      "sha256":  "c13cc8adaf219d85a74e0cf065b75926b49776b2258dd553769f4a3c3109b155",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/EquipTie/TieLockBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/EquipTie/UnTieIco.dds",
+                      "sha256":  "d1ac0a52f7d90b693bd5b5b147a958b90f0d1d2ccb291c635d16a92e33efb3d7",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/EquipTie/UnTieIco.dds"
+                  },
+                  {
+                      "path":  "data/interface/Furnishment/AllbindBtnClick.dds",
+                      "sha256":  "31393ffb8b52e1b457acc97d1c8b0de6cd225bf2b2eadde59a73fb897e50c813",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Furnishment/AllbindBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Furnishment/AllbindBtnNormal.dds",
+                      "sha256":  "da87e45ea237e67eb9c2992639fc821f12ac4b122e505e97b46dc080617ff2fb",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Furnishment/AllbindBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Furnishment/BG.dds",
+                      "sha256":  "3a561ae4cf3f120de1acb0420e79553fcb0c5f3edbb7a26af9587e2af5b8f611",
+                      "size":  131200,
+                      "url":  "v2026.05.31.1/data/interface/Furnishment/BG.dds"
+                  },
+                  {
+                      "path":  "data/interface/Furnishment/BindBtnClick.dds",
+                      "sha256":  "a36a15d1ea52be7633c8e96a616aa818063cb10262cfd8f69a10156aaddf5d11",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Furnishment/BindBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Furnishment/BindBtnNormal.dds",
+                      "sha256":  "40c220219f0cf2a34750f3a5492bfff1a7cdca769a4ec8678440bd400c2a8f45",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Furnishment/BindBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Furnishment/ConfirmBtnClick.dds",
+                      "sha256":  "737df60946ccdd23fdb706e3f883cb6f350faec32ef82cd7d8d3be35eba80fb7",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Furnishment/ConfirmBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Furnishment/ConfirmBtnNormal.dds",
+                      "sha256":  "cd1773987c403ba9ed11dfbe97ac29d5dde7c5bdacc243fcc77681058bedcfc8",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Furnishment/ConfirmBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/BG.dds",
+                      "sha256":  "af202cae374833af1a66c833a40ea1cb78a8b10003030d20f5f0c11370923823",
+                      "size":  131200,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/BG.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/BG1.dds",
+                      "sha256":  "5507d7dd7656d86746cec917ca11e94af2fbcd4a52fffb71053de0d4bf445c72",
+                      "size":  131200,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/BG1.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/CurrencyEquipIco.dds",
+                      "sha256":  "b833f52210a904c40ca62bbf9fb80b71422da84b4a388c13c298cf599fcbbf89",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/CurrencyEquipIco.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/DistrainBtnClick.dds",
+                      "sha256":  "7bf3a053ab0629d21481ba8963f3c78329a8dc9c30473cd8d2b519e3e8072bcb",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/DistrainBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/DistrainBtnEmboss.dds",
+                      "sha256":  "8ee52e72c6e56c0ce9b7c3c96c368d1c0656d8c5a33599ba90fae621d4967a13",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/DistrainBtnEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/DistrainBtnNormal.dds",
+                      "sha256":  "d755adc34516d7627ef4b0b91ebe9bca57dc0da6532c1a9d3ac1cad5b511dce0",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/DistrainBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/DistrainTitle.dds",
+                      "sha256":  "a728f5d05737978f41973d8beab92e7413c1287291ba90aad02fa2b293d1c462",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/DistrainTitle.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/GemIco.dds",
+                      "sha256":  "aff91562e7553eb79e306cd07e0a37791ec34187cf03f77732013ac86fc43414",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/GemIco.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/Grid.dds",
+                      "sha256":  "0d4f0e18bed2d7096d3cc124cd39badf0251d4b8eb519b63539496f716c80863",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/Grid.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/PrizeBtnClick.dds",
+                      "sha256":  "020512c47f72993e09d5d64951696a064da936da768ccd239e7d53d981ebde1f",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/PrizeBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/PrizeBtnEmboss.dds",
+                      "sha256":  "052a3916225c19d3e14551c1631167c8bac2c7b794abb7ad27e57c94287e8f72",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/PrizeBtnEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/PrizeBtnNormal.dds",
+                      "sha256":  "5fb768452e596cb8a873aa86472abf360886555efcdd799b686a71d1809c9fec",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/PrizeBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/PrizeTitle.dds",
+                      "sha256":  "fbabee19c9fd2ea3656a4974e3f680827261ee4d0ae086532d58f394e4caa59d",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/PrizeTitle.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/RansomIco.dds",
+                      "sha256":  "59f79d53783577d0ab4ca139a9f2c9d69a32bc44617ddf5d36af10661b01b2d0",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/RansomIco.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/RedeemBtnClick.dds",
+                      "sha256":  "12079b60dbb7c396b70cb592b21b183ed2dfcfe5d6c94b6e3d2d529ed3f6ba56",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/RedeemBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/RedeemBtnEmboss.dds",
+                      "sha256":  "bda20d84f07f99242eea1b55107183c87e8cc9ae7c0cae53461531efdd038619",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/RedeemBtnEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/PkEquip/RedeemBtnNormal.dds",
+                      "sha256":  "decc2bbc6d029950663e135ed4e6c2e55bd4a3c1ab0af81298fb16ecd6c1d68b",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/PkEquip/RedeemBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/1.dds",
+                      "sha256":  "7d09cd3a1c1d205ad8af7704f0e3d6f0d3ca530edb42c97ab0f06743c26efe51",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/2.dds",
+                      "sha256":  "97ef43a62f460b1c36ec7941bd3e48e1401bbdf678fd11ca5fe02510dd7a3b4a",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/3.dds",
+                      "sha256":  "c68fe7b6ca13429c2317b8d51b144e3297b77a9fcdf8c5003ee4ee8e6674d9be",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/3.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/4.dds",
+                      "sha256":  "7a7c9508bb6e46c69f4decf0b961adc88c47a3d1a76fa1bab43a87b608bf4e6d",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/4.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/5.dds",
+                      "sha256":  "f02050853b7bf84912c5c83d54d71e2e498ad63a4eb108342e7337cac055a166",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/5.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/ApplyBtn01.dds",
+                      "sha256":  "c1751269da4652bd9524c7436ee628c800d05a81ac6dfc0c5b30cc0ab78e5aa4",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/ApplyBtn01.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/ApplyBtn02.dds",
+                      "sha256":  "f6d3a22218e3b6dfc1e30657b3a7f511b1549bd31e0731da1c9608196620b5ad",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/ApplyBtn02.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/ApplyBusinessBG.dds",
+                      "sha256":  "5329be910706a7177f765383112d6054949ff61f3880dea5ea68c7e44496cfee",
+                      "size":  262272,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/ApplyBusinessBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/AuditBusinessBG.dds",
+                      "sha256":  "b991f7d28a1f4d941a61069049e7ff3c390978ea932c70a96d1e198895422a31",
+                      "size":  262272,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/AuditBusinessBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/CancleBtn01.dds",
+                      "sha256":  "464772dcf4ca7e8fe2286d114701bda07d2668f4656e6f0ceb7fce4a117fc8fa",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/CancleBtn01.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/CancleBtn02.dds",
+                      "sha256":  "c19451618b98268ff928fa7af6d7d5ea19c62033868f24744b9f2174866e7e4d",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/CancleBtn02.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/CancleSBtn01.dds",
+                      "sha256":  "d8e5a890336a322a88f1a10bad67ebce6298a3755930b2113b12c3225393c21b",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/CancleSBtn01.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/CancleSBtn02.dds",
+                      "sha256":  "c8324a7efd0fe5aa0f9ca5abd6b2d20807d7ef8901243c6ac5c0d5575e9dbfd8",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/CancleSBtn02.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/CloseBtn01.dds",
+                      "sha256":  "d5e6d51b24373d962d3282b6c065056f7bcc6f6b1b37773c426e57aa793c555e",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/CloseBtn01.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/CloseBtn02.dds",
+                      "sha256":  "7520f1fddd9bf37106548365e855d18a30045b9713e66bfa9a7caa1414a58030",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/CloseBtn02.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/Collude.dds",
+                      "sha256":  "814002d9c25fff8007818bf5081c2f262f4054b203c417426d40288cbd2a7fc6",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/Collude.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/ColludeBG.dds",
+                      "sha256":  "14237aaf259735d9da7962ef630511dfbfa9fb9319cdd6735a9baf9c41f872d7",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/ColludeBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/DisApplyBtn01.dds",
+                      "sha256":  "f8dbab7950e14c90d989695747af5191fb9670c782f8314841d70407d6e3dec7",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/DisApplyBtn01.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/DisApplyBtn02.dds",
+                      "sha256":  "99593c42bf173aa9cef5a43ba59f90dc99fda5b48b49d6db264cdc5ae5a0adc8",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/DisApplyBtn02.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/DisBusinessBG.dds",
+                      "sha256":  "35fde07161b1532f7955fb3b91c71ba118fd387e31366b4fc96e5ffe7a5ac7dc",
+                      "size":  262272,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/DisBusinessBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/DisBusinessBtn01.dds",
+                      "sha256":  "dbcaec7c7a5f04ac33b7d36e36c6c13aaee29064933823cde08b194122a2af0f",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/DisBusinessBtn01.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/DisBusinessBtn02.dds",
+                      "sha256":  "c8a0fde7b2830ad053d56ff6ec46dd353b5ce7312072ef52dd37d3eb388f0880",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/DisBusinessBtn02.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/HeadBG.dds",
+                      "sha256":  "b5fb2a2dc0160b979ccb74426f3577efad24b668bb9aa8bb2bbc4c524fc8583e",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/HeadBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/ItemBG.dds",
+                      "sha256":  "ab7956600c15a50e82b6262b4f33638bb0234c92695a9d7cb7b2a6d96af55965",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/ItemBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Businessman/RegisterBG.dds",
+                      "sha256":  "820a6606251fe99bd6596e3fff6d242113eebce49b10ad14bebb6d63b102dc11",
+                      "size":  262272,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Businessman/RegisterBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/chatbk.bmp",
+                      "sha256":  "af7c49545faff7b7a41b2438854f19171474d357e633d8a33a4af3cfdc713cde",
+                      "size":  76136,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/chatbk.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSBlacklist.bmp",
+                      "sha256":  "638b0238832c377a92b5e4f132643155acff9e82d242a75031c9feddead34125",
+                      "size":  2172,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSBlacklist.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSBlacklistClick.bmp",
+                      "sha256":  "212716ef23178aa1f7c66150e647579789cfc17a480fef4d0c76e6d53fa054ba",
+                      "size":  2172,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSBlacklistClick.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSBottomBG.bmp",
+                      "sha256":  "fe28caf590b3e3f5bd2c3d1d70a0bc58ff83d567cd5466d08cd1dd863809cf81",
+                      "size":  572980,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSBottomBG.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSCaptain.jpg",
+                      "sha256":  "b8e5684ecedf807ada6044ddf786fe5c123c4c0ef83f48130e9eb5ca28ade02d",
+                      "size":  14374,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSCaptain.jpg"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSCaptain16.jpg",
+                      "sha256":  "af9c17744d812ca35aede58ff740f0f1878b1dcd31a74c2534442d6a49186966",
+                      "size":  8795,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSCaptain16.jpg"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSChatBeffectiveness.bmp",
+                      "sha256":  "ec6673494e37f58fecf98b0e19d02aa52ec1a198972a5e90e9b6cb49c65067f7",
+                      "size":  13376,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSChatBeffectiveness.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSChatDoubleheart.bmp",
+                      "sha256":  "22e772865d35ac0b2662836fda1f1bd2ddbba09d418a1aaf53b3d4b872c50177",
+                      "size":  2632,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSChatDoubleheart.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSChatDoubleheartClick.bmp",
+                      "sha256":  "410bb5ff5608b3a68864e3f27b098f4911e4d51b06ee8cd6483a43cac47f0290",
+                      "size":  2632,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSChatDoubleheartClick.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSChatgrade.bmp",
+                      "sha256":  "8aeeef1aa587010062978274ae4b4f1f4405b170cce2cad7d7c33f5f6de440bb",
+                      "size":  2188,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSChatgrade.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSChatheart.bmp",
+                      "sha256":  "e03819320018a7109c18c12f40f204f30b287079ab1106f908758a038fa5355f",
+                      "size":  2172,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSChatheart.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSChatheartClick.bmp",
+                      "sha256":  "f14b787f73455d264c841d49499c3f09c3f6156cc9a2f0dc1e47abd935476847",
+                      "size":  2172,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSChatheartClick.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSChathearts1.bmp",
+                      "sha256":  "e620e34e1e0f3ebe582f0391a44655d1eb26f1fe95f16ef3089bbf0cfc114b59",
+                      "size":  1348,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSChathearts1.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSChatListGB01.bmp",
+                      "sha256":  "e934c3cdd40c8f8a8439963079b19e9fb7d6b89cf98124a670153c1053bd5403",
+                      "size":  265040,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSChatListGB01.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSChatListGB02.bmp",
+                      "sha256":  "d3c9d63fe309cb8a4cc5c3c8f43c61e991b477aac23eff0522bdb0471ca656fa",
+                      "size":  207392,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSChatListGB02.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSChatparticular.bmp",
+                      "sha256":  "de7eec4a46dcc2e0d039bdbd07c1178c05f65c5ad59647ba6e724d50f103eec7",
+                      "size":  2604,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSChatparticular.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSChatparticularClick.bmp",
+                      "sha256":  "7ca16f0b718f7624f0dae1efe2eeb637e5218addfd2a38e18a3be45f4e6cef5f",
+                      "size":  2604,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSChatparticularClick.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSClose.bmp",
+                      "sha256":  "d764477314f50caaffcf4ca752fd297a3db3033f2677aabccb9444ce0ded613f",
+                      "size":  5688,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSClose.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSCloseClick.bmp",
+                      "sha256":  "68ed0d6f002f05256680b548903fa043fa6ef8b480e1b6a21dceb118170340b1",
+                      "size":  5688,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSCloseClick.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSCloseico.bmp",
+                      "sha256":  "9071aa276caf1c07c0a695bc49fcf26109ec87332cd278b5e243e078d9c2a12a",
+                      "size":  1144,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSCloseico.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSCloseicoClick.bmp",
+                      "sha256":  "cfa37bfe6a4483d826a2f543df7dbe2c666bf35087dfad993ec2cc441d07cc2f",
+                      "size":  1144,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSCloseicoClick.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSConceal.dds",
+                      "sha256":  "7f297fdccc197193f0d3fa9422054ebdefe9aa4abf7e5c4c86567528cb597d3b",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSConceal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSConcealClick.dds",
+                      "sha256":  "21aae3db2296fbcc518bb7bf098bd9491c7ce90d6d5c8df80bc60355b796462a",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSConcealClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSDialog.bmp",
+                      "sha256":  "6dacd7a52b3fdb583d1cd67b610ceb2d37449867336755d64722b09cf550b672",
+                      "size":  2172,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSDialog.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSDialogClick.bmp",
+                      "sha256":  "79670398114d3ee41753a3c75bd3740937031cb85efd585beede4dbf02fbbd5b",
+                      "size":  2172,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSDialogClick.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSEmotion.bmp",
+                      "sha256":  "7eef5054882ec327560a246a02f1accd023b6e0f84b6744640292aaee2e82b4a",
+                      "size":  2172,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSEmotion.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSEmotionBG.bmp",
+                      "sha256":  "a43fbfeb54e9b4295afbadc7a69305d39c5716708946933e92a844055050e80e",
+                      "size":  133196,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSEmotionBG.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSEmotionClick.bmp",
+                      "sha256":  "dbedb53207baa27def540c8fabb82b0523994dce32675127d9af6c8963fb73e0",
+                      "size":  2172,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSEmotionClick.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSHelp.bmp",
+                      "sha256":  "8e5d7a8846ec093141d109afb0980111774c609f45bbaa1d8f15145093dfd656",
+                      "size":  5688,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSHelp.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSHelpClick.bmp",
+                      "sha256":  "469a751f42570506f60d62a924afd3efc19fa8cd144ecb747e8ecbfe13d894f2",
+                      "size":  5688,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSHelpClick.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSMore.dds",
+                      "sha256":  "3341a28a92b71e4cd08db1e29a8cd95ee5bf408091176b19358ad0aa432ba430",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSMore.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSMoreClick.dds",
+                      "sha256":  "21dc8ab71cbd771048e36f27fcb1ff69e96b1d09fe9b47957fdef65969de9154",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSMoreClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSPgle.bmp",
+                      "sha256":  "2b4e1d12ccb6f01e3b1c6861115f61231403014d7dd2435e4082c69d0b941e75",
+                      "size":  1376,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSPgle.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSPgleClick.bmp",
+                      "sha256":  "41fd248414224c0dd589988bd51a1f3ddb936cfc93c71f53786116db54a5329a",
+                      "size":  1376,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSPgleClick.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSPgri.bmp",
+                      "sha256":  "10815c672468179d2e8bcfce9b30c67f4cbae047b01bd06b415d70cc4e8dfa47",
+                      "size":  1376,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSPgri.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSPgriClick.bmp",
+                      "sha256":  "bb77ca7cec0d66f449225617c89b7a822e34c54746606aa06820f78f4550a20d",
+                      "size":  1376,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSPgriClick.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSSeminar.dds",
+                      "sha256":  "cf482c8dbdd6584ad1be8527f4576d737070fbdb95464041c09b31f4c561eb26",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSSeminar.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSSeminarClick.dds",
+                      "sha256":  "0022e5991257795f67e4345caa6ce31cac06eed4f84d4d2ff13e08ff5f91b2aa",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSSeminarClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSSend.bmp",
+                      "sha256":  "8e00cfe6b94533a6c6c0be9dc4bdffe8f9a3241330332729a55cec848705a88c",
+                      "size":  5688,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSSend.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/CSSendClick.bmp",
+                      "sha256":  "03af2b4fc046b5e7126ef831aec90334a66591fd8990645870ba03c01fcc8df2",
+                      "size":  5688,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/CSSendClick.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_father.bmp",
+                      "sha256":  "7b6e4dca2e379600073b8b6e0b147c360b57a86a835ad08c7025b0c646da08a2",
+                      "size":  4580,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_father.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_FatherFont.bmp",
+                      "sha256":  "619e88b8ca04340c46652175c6e7a5a28384457f6100e39580b4c09077d4fe97",
+                      "size":  2104,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_FatherFont.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_guard.bmp",
+                      "sha256":  "ca680e84e7be842da2f1cc2f16a085939e4a8ea1e39bc706c0d035485f9a9e9a",
+                      "size":  4580,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_guard.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_GuardFont.bmp",
+                      "sha256":  "fc505d398815f20868a55f3603bc3b5f3fa24936df2b2638682f5be4689d14a3",
+                      "size":  2104,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_GuardFont.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_infanta.bmp",
+                      "sha256":  "b16bba7137dda9438ec4a7c69ab30b58fe3259f313bf80c99f116b5bbe7d89ce",
+                      "size":  4580,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_infanta.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_InfantaFont.bmp",
+                      "sha256":  "577c1dded8765a90666dace9f917ab9a39a9b8c3b8702a82fd32cec33229ea20",
+                      "size":  2104,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_InfantaFont.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_infante.bmp",
+                      "sha256":  "99439ed5f1256fcc6b7678e8a3573a75cdb0fc1e4f6fd2e82f31b6fa3849b5cf",
+                      "size":  4580,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_infante.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_InfanteFont.bmp",
+                      "sha256":  "a4bfff5f540365539df7b34734dde3c92b8e7a2d36a689c0e01f5f83977f5aa6",
+                      "size":  2104,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_InfanteFont.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_marquis.bmp",
+                      "sha256":  "2033fc79afe799421d883a0bb282790e6eef974924c0d8e0a888426f7914c82b",
+                      "size":  4580,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_marquis.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_MarquisFont.bmp",
+                      "sha256":  "cffc0412c2a4880abd12cfa9e5f29231e4957252d7b7b08357f73ad85e4424ea",
+                      "size":  2104,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_MarquisFont.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_nobility.bmp",
+                      "sha256":  "1114c8dac2ec6f39edda9c4754253b02f0dd9bba968ed3a8cfcdd14cdd2eae79",
+                      "size":  4580,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_nobility.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_NobilityFont.bmp",
+                      "sha256":  "f7beabb8b68ad3547e34fa94fde7e4d41ae585d3f03dfa04e499de957d57f7dc",
+                      "size":  2104,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_NobilityFont.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_uncle.bmp",
+                      "sha256":  "b8651fe68984e63814ba44adaa1e0871619e3ba30150f9264d65b9b4cc53335d",
+                      "size":  4580,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_uncle.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_UncleFont.bmp",
+                      "sha256":  "8e5ef1586db33e7ba68812561682e0400afb4dfb1daa34edb9fc87c3153b59af",
+                      "size":  2104,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_UncleFont.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_white.bmp",
+                      "sha256":  "24d9ef353bdbda58561ea0ee962621b99df73ff3e716f073e98e3ca3ad9a1928",
+                      "size":  4580,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_white.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/chatsystem/nobility_JPG/nob_WhiteFont.bmp",
+                      "sha256":  "ba9baed00063da45a165ad47d5e6f1313775ff9683c2b9c37326b4c825cfef24",
+                      "size":  2104,
+                      "url":  "v2026.05.31.1/data/interface/Style01/chatsystem/nobility_JPG/nob_WhiteFont.bmp"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/checontributeBG.dds",
+                      "sha256":  "eb232eda193c0a142cbdff814df993de7de8c849b1d1e6e9b614193e0012067d",
+                      "size":  262272,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/checontributeBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/checontributeBG2.dds",
+                      "sha256":  "476c7ae8f5d01bb24022b53606e75fa551c0095ea268f225772db8e5fde60e73",
+                      "size":  65664,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/checontributeBG2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/closeBtnClick.dds",
+                      "sha256":  "ec8c11df77947136dd2e359ee28d81490fe31186a7345ef2464ab3cc308e27a3",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/closeBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/closeBtnEmboss.dds",
+                      "sha256":  "33e1807bb967846cbf1b7f7dcbfc7b34a4f73930d705d5ec75761736fbd8195a",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/closeBtnEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/closeBtnNormal.dds",
+                      "sha256":  "085f9f70e74e1486390cf6d43fbb738900926ed674f2a586190f30b9ab3f1277",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/closeBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/closeClick.dds",
+                      "sha256":  "1dd3800880398ea6c1a7afc07d28876bf763b5a68801bb36c5ea214ad145c423",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/closeClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/closeEmboss.dds",
+                      "sha256":  "24f5158801c66cfb10d3e7709aa1dc14d9e2d737c769dcb9fc3a505e5d6ff7c3",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/closeEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/closeNormal.dds",
+                      "sha256":  "2ec5a1182a8efa2709c446e682d1cfbd7c44ca08dbfc3e23e082685527f012c8",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/closeNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/contributeClick.dds",
+                      "sha256":  "14f78600957f65a260744afdcebe00f5dc48e5d32dab5a6c5a8ac553cd779e27",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/contributeClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/contributeEmboss.dds",
+                      "sha256":  "ef0a390cbff70971de200cfceb61c72070d8a2cd5b68013d6b8429d61e5bc0d9",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/contributeEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/contributeNormal.dds",
+                      "sha256":  "667a36e466c5d6dd026f8c7460811ded69c59f4cfe7c0656ae31f558e6e5cc53",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/contributeNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/drawchateffectClick.dds",
+                      "sha256":  "65e3f3e77c1a7ba7c6f1b35398f6d070584d1111aa84b361cff63be5b0a17c6f",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/drawchateffectClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/drawchateffectEmboss.dds",
+                      "sha256":  "a28da67f54cdfcf2874ea5ed360803f5260e3e9bbe28045ad4d26533de3bde55",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/drawchateffectEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/drawchateffectNormal.dds",
+                      "sha256":  "be7cdc24160794dc24924dbbf2237a9fc89dda4d749320a8283e49de7f960c79",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/drawchateffectNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/exploitbeadrollBG.dds",
+                      "sha256":  "4879614417e7a70a4b82552873d189688a5e08ae41071f4ce0910264e91dd0af",
+                      "size":  262272,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/exploitbeadrollBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/helpClick.dds",
+                      "sha256":  "874b77e455b6836c0f7942e3455248d6a0dd152a73c67b7c2dff9ab6bb01ab56",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/helpClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/helpEmboss.dds",
+                      "sha256":  "59d81848622cc3b948d2eade51fce75f24be7d3652a09655290147729086e03f",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/helpEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/helpNormal.dds",
+                      "sha256":  "a7971390949054e32b319e364eb52a7e3385e9602f4e3492b389cd812c5c8aae",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/helpNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/infantaClick.dds",
+                      "sha256":  "05d8499135750a5879752edeeeb8edca9c727847a117d0ac7b8e24ff91458214",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/infantaClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/infantaEmboss.dds",
+                      "sha256":  "b34ccb706ea0524062c6d63fa45dbd9a5a515a9fee1ddf15d6412283f9d6ac00",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/infantaEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/infantaNormal.dds",
+                      "sha256":  "05a7b7f237fa48cfc0d5f602205f4769cdb892c68abb0b91bb2f63cefbdab8e2",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/infantaNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/infanteClick.dds",
+                      "sha256":  "da523e7a6702ca2f31050fb95324630bd349a9c9004b6391a4d7e50a3f8183de",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/infanteClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/infanteEmboss.dds",
+                      "sha256":  "1aa16f09468ca45900b09d4679264fa76e56c14e0e2d99ffdfdadb2e3f4f08e7",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/infanteEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/infanteNormal.dds",
+                      "sha256":  "0608588b1d66fd435a5ff6165ef1cd6193055936adfa3f3cf68d39bba52ca0f6",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/infanteNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/leftarrowheadClick.dds",
+                      "sha256":  "6e8ca76cd364fe9d9ca25793b38d396c8553f48b5f326b6d266adfd24ce26e7e",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/leftarrowheadClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/leftarrowheadEmboss.dds",
+                      "sha256":  "389db69df4f43671517ad52b592637d004625cea19afab94050d0e0590e3cdb4",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/leftarrowheadEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/leftarrowheadNormal.dds",
+                      "sha256":  "ca5b5ab600fe12f83bcaeed261ca84bec5a0758589cf1dd4c3c75d517ecf8296",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/leftarrowheadNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/moreClick.dds",
+                      "sha256":  "9952a8544931b8f80b4616aabd8fd69be8622c054c5db2774460a5d29ef964ae",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/moreClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/moreEmboss.dds",
+                      "sha256":  "2c151a53da69f2036f66a6d730e65ab5622168199a0d1a3d3ebc886489bf5c24",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/moreEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/moreNormal.dds",
+                      "sha256":  "5f6b92cdd951c54b46f8098e7839a6c1f3a901851fb7a79ec3ed7d6d0fea924e",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/moreNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/reinputClick.dds",
+                      "sha256":  "1f1c772680bd3011aade11cc992c4faad88ad22099419f559f2ccd421a233a08",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/reinputClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/reinputNormal.dds",
+                      "sha256":  "19050fcb7ac4e84dbcd68de6836aa0c1e6175bd3ba7476137b38799163e4970c",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/reinputNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/rightarrowheadClick.dds",
+                      "sha256":  "eeb00e85549514c969d0fb17cc3a11f37d6ec82b61de15b96a426327f46471d8",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/rightarrowheadClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/rightarrowheadEmboss.dds",
+                      "sha256":  "5f1831612580aeb48f804bf906d18299edb12b665643cd6f5290ca8b013b96cb",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/rightarrowheadEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/rightarrowheadNormal.dds",
+                      "sha256":  "61d58f4bb3e63463d1d59fed9a37bd78e20dbb03d6a40967942f6bdc3f45db62",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/rightarrowheadNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shirechevalierClick.dds",
+                      "sha256":  "f37c5e81d9bda2cd45c19c203032f7832e707c5efb7e49f74f46fafa7a266cdf",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shirechevalierClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shirechevalierEmboss.dds",
+                      "sha256":  "ee291fc61e4ead2c3c60c332c444a2e6be39df3a5852a99a9e5aa265963445df",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shirechevalierEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shirechevalierNormal.dds",
+                      "sha256":  "799bb89515529b2020bda8d201402b2543d66c855799ecfcbd5a0bca337a4f21",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shirechevalierNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shirefatherClick.dds",
+                      "sha256":  "bb39b1a40ca92fca8afae0346edc762582f559371dea9f9f9ed1abce02b4878d",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shirefatherClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shirefatherEmboss.dds",
+                      "sha256":  "185b62d1046ef32e994e53c3836002bfb7d88399e520af4d0901282b08a0faaa",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shirefatherEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shirefatherNormal.dds",
+                      "sha256":  "ad586dcc7d9025d74b99a834b4267e4dcc1802182fa8751a909074a9afc72be2",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shirefatherNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shireguardClick.dds",
+                      "sha256":  "790e2dd28326baa09ba6fbaeca27175585a65d96d0367b5f8ae63c002ed45fa6",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shireguardClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shireguardEmboss.dds",
+                      "sha256":  "2366db3d5540b045f9dbc2bdd30b7fff094c39e19632bcb8e5a0793c3a78a24c",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shireguardEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shireguardNormal.dds",
+                      "sha256":  "f52e3a65358b7bc5ab66ba463dd233a75949e28287ac1af733bb988194bf97c3",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shireguardNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shiremarquisClick.dds",
+                      "sha256":  "ee248324c75aaa5f940a7cc66c2418e7cf22e513121fecdbd52dfabc0f6c273f",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shiremarquisClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shiremarquisEmboss.dds",
+                      "sha256":  "c42dfaa900b426bacf016c2f472ee616bb8aebe54b0c5410729eaf0a03ed3984",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shiremarquisEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shiremarquisNormal.dds",
+                      "sha256":  "2ea9a6efdd1dfceb1d1b059c2d2727349b240bb9329dcec50ea2779e19a44222",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shiremarquisNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shireuncleClick.dds",
+                      "sha256":  "b15547d1189da75b5782adae9e69138b01f0568b2bc54c9728ee9224452e6653",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shireuncleClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shireuncleEmboss.dds",
+                      "sha256":  "d1b767dc37ddf5deaf8c054410b71b3c1aef9fc21a5c10596f195237521c89de",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shireuncleEmboss.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/checontribute/shireuncleNormal.dds",
+                      "sha256":  "5dffe18cecf3eaf3ff8c9c006c938d4b212b92755809440c1dc46733c122c7a5",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/checontribute/shireuncleNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/Emoney.dds",
+                      "sha256":  "35f55261de6245d930926e74c8cacdd02b2514671db70a56d92128c4af10fdf2",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/Emoney.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExeBlessBG.dds",
+                      "sha256":  "03d4d95f10df20f013b9baa0fc30aaecc22838e2b5caa358bd4b893408a513b4",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExeBlessBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExeCancel.dds",
+                      "sha256":  "1830e908252cd866233238fabadf42b5b144bf23643ae980f75ba7844d9025ad",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExeCancel.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExeCancelClick.dds",
+                      "sha256":  "0a87f84c4c8ce47fc3b02a40f588f6cb39ad65ff8a5d5a5ed5619f6e7507c25d",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExeCancelClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExeCancelH.dds",
+                      "sha256":  "65438f6e307371ce1af87e6023a8097c31899bd0e16c0a36bab7a807d59ba117",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExeCancelH.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExeConfirm.dds",
+                      "sha256":  "574c48809372d954a0af0c03408f1d43096a61c52f833d1f8d2c3dd6508b8a10",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExeConfirm.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExeConfirm01.dds",
+                      "sha256":  "574c48809372d954a0af0c03408f1d43096a61c52f833d1f8d2c3dd6508b8a10",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExeConfirm01.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExeConfirmClick.dds",
+                      "sha256":  "06eefedb44d749843af64ac7dc7e879c4064d3a368b7319fd13138917ef2b1e7",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExeConfirmClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExeConfirmH.dds",
+                      "sha256":  "70e8cdfdd77879fe329f6dd100c64403a49c18fe68fb85d31d916ceb9d08c4de",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExeConfirmH.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExeContinue.dds",
+                      "sha256":  "9b1f3235650f275094287e4270f95ae031771d8aed4cf2d71c7b49a319207074",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExeContinue.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExeContinueClick.dds",
+                      "sha256":  "4b3b1406cbab2510581eaec95c3f2f5afd25a6aea276fce35a910e4208b85405",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExeContinueClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExeContinueH.dds",
+                      "sha256":  "9ee1cb711f07bc7c0c6703d06329f715f85d05af113cfc64b582e7b9506f4604",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExeContinueH.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/Exercise.dds",
+                      "sha256":  "31abb35aefe253ab4ac0c07ce4fa918b1b4a80315b1aacb6ccabe83ac14cd520",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/Exercise.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseBG.dds",
+                      "sha256":  "d0cb5dafbceacfa561d22dd69c5c32f097b5c91618c964566c88a2fbcc9d8c6d",
+                      "size":  262272,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseClick.dds",
+                      "sha256":  "1458567ad0602267833f2ffb8831f46542b2ccdd18cea3d4446ba6234cec604d",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseClock.dds",
+                      "sha256":  "aaca8d1e9a0999dc048142534d3bda2ca2010c79ab89c7b233a38e010810e8d3",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseClock.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseClose.dds",
+                      "sha256":  "95d55bc2f91f132e6f206273ecd55a966af38b817cd65dc04330372ebd3ce17e",
+                      "size":  640,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseClose.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseCloseClick.dds",
+                      "sha256":  "ba39aa7ab9e68642345c973da0813f7b11f36c7512161043d07712aab7d03f16",
+                      "size":  640,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseCloseClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseExit.dds",
+                      "sha256":  "cbe66cb867a2453bb5ae28cd05010974da699c79a284fc79fd13cbaa520c3c13",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseExit.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseExitClick.dds",
+                      "sha256":  "1b953ffabcbd8c5bbb554187eba344a3f03f56957b58a2e4c60c7ba655e7d7cd",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseExitClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseH.dds",
+                      "sha256":  "84ea59d8eafd19294749c59cad4291ef9f6dec13e7c48f2df953cbe17f07f56a",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseH.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseHelp.dds",
+                      "sha256":  "876414e3560aea967b5235b2359c4bcf889511fe1ea5c289a4bcaefff4287531",
+                      "size":  640,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseHelp.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseHelp01.dds",
+                      "sha256":  "dd90adfd9abf940805b901669ff6cd22d11d2e45b460cd3c3e20e2915215b019",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseHelp01.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseHelpClick.dds",
+                      "sha256":  "ce4843a5b877b6499593dc3c4db8486edb608cfd75a98fafacb564736d07f532",
+                      "size":  640,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseHelpClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseHelpClick02.dds",
+                      "sha256":  "5ad25b8c12f2e50dd482b321beff48d0ac2b935c1989dacff85bf99f8f39cbfe",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseHelpClick02.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseHelpH.dds",
+                      "sha256":  "4372f91ee6ef69d89e7fd8dacbcdd70aced37dd74b2de3d47881ec970fbe408c",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseHelpH.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseNobalance01.dds",
+                      "sha256":  "2299f32a2a6a5b59b7b41362cd2c0cdd7379d940b4fda5c4087ed09b6be5fb6d",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseNobalance01.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseNobalanceClick.dds",
+                      "sha256":  "0628ffe7918ce2683d37fe75a6fb2df73f17949630e461269fe97a3a9f79be20",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseNobalanceClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/ExerciseNobalanceH.dds",
+                      "sha256":  "d4eeb2165e109a987b0aa5c90db1ec539a7bdbf909518e5a19d7e72f392f3346",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/ExerciseNobalanceH.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/PublicInfoBG.dds",
+                      "sha256":  "0ad8d4f3ccb973bc69acd334181ee526ad6e1e0ea811a390696715611604447b",
+                      "size":  131200,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/PublicInfoBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/VipNOMax.dds",
+                      "sha256":  "13b57c3a05ea18011cd36a7a3cd84fc3bd0675b0ca6955e5f9b39a3b4c65caad",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/VipNOMax.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Exercise/VipNOMaxClick.dds",
+                      "sha256":  "a7ff78f229e96fd03e3998726fbde45613d0089a1b824d50074b6b7f2e058792",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Exercise/VipNOMaxClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Forbid/BusiComBtnClick.dds",
+                      "sha256":  "191987869d96705a8f05912b91fc2d1bcb2d8b33ae4284fb4a26d01bb2f640f5",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Forbid/BusiComBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Forbid/BusiComBtnNormal.dds",
+                      "sha256":  "34facb9aca6103726a57b1d48ddd99b8e33c0820310505fa72cad2abdbcd25d4",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Forbid/BusiComBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Forbid/ConfirmBtnClick.dds",
+                      "sha256":  "b460d5c765981b91dade6e630c34f40dda677cabcc0fcd04b209020686e92418",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Forbid/ConfirmBtnClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Forbid/ConfirmBtnNormal.dds",
+                      "sha256":  "16ee9ed3c8ecad0086398168a01ae55d648a0bdf34fe41ea577dc894ae856af4",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Forbid/ConfirmBtnNormal.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Forbid/ForbidBG.dds",
+                      "sha256":  "d78d1f8d573d0a11ee04353eb9ece710af91441a9903f0001b56d1ccd1148541",
+                      "size":  65664,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Forbid/ForbidBG.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_father16.dds",
+                      "sha256":  "14fe831cacf4a8e1703ed696afb0c1e5d04cb63c619e4006be62623fdabcf8a0",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_father16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_father32.dds",
+                      "sha256":  "7b6e791e456ff7f202d59b3e0d6c7f5f8ebfbc4c21407917b8c1ec02781aab65",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_father32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_father64.dds",
+                      "sha256":  "556d47ae5d38b3e0f8fe9d00ad3f3756511ba3e96cb6174aa1b2c051b62c7bd6",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_father64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_FatherFont16.dds",
+                      "sha256":  "9d932c72b41a7a565ac4a935c051e84f3b554c889adf2bd3a4cda6b6d9609a79",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_FatherFont16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_FatherFont32.dds",
+                      "sha256":  "9418483b3f468c005cbef74326fb77baf71a72b2b767348e2ffe3099b6c0df3d",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_FatherFont32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_FatherFont64.dds",
+                      "sha256":  "f135ece36f13b73d5f938a70d23a587cdf540549523311e4a6a943d96b077ef9",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_FatherFont64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_guard16.dds",
+                      "sha256":  "dbee3358cc714f9480e408e9882f9ae6562e96684377c9261be5e0b569202020",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_guard16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_guard32.dds",
+                      "sha256":  "94250acc64c22a06d4348dde0ea36ef6294f84a3658ebd7262cbb8882a586b0b",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_guard32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_guard64.dds",
+                      "sha256":  "68d4caf5d7c0298ee7391656ae2484ef0436d9a9ed94dad3b9f710efc32a8253",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_guard64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_GuardFont16.dds",
+                      "sha256":  "acab64e4e2b09d45b766523199c560b34f14b7918dcf5258618bb22fa53b0996",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_GuardFont16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_GuardFont32.dds",
+                      "sha256":  "c190d73d34a9e506ef837d9b3df5da2a7da0cc0d5e9d5e54d235b883dcb12489",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_GuardFont32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_GuardFont64.dds",
+                      "sha256":  "9ca8235a7bcfaeb356c7aa3d2bdd1d9a5a44a1bef1a18d73debb886b7f60fe36",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_GuardFont64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_infanta16.dds",
+                      "sha256":  "e89b43d2d57fd20efefd8a6e544f98166943f27aada1372b65eb2216e737b4c5",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_infanta16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_infanta32.dds",
+                      "sha256":  "e5f6dec8b608646ef46209c98fdc47a9bb452d9314d468544e86929dd3435500",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_infanta32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_infanta64.dds",
+                      "sha256":  "5112f70655a49de7e3583bdda927076558c11899961f10c04ceedeec17767b11",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_infanta64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_InfantaFont16.dds",
+                      "sha256":  "f22992e9b111971ecaec3e6c9314e8777a1ab2c89b0c817cf86f297008cde6e4",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_InfantaFont16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_InfantaFont32.dds",
+                      "sha256":  "989dbca6f99d82e82445b5680acbc337739d5aab1a730a4770cec22e0b6e63a6",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_InfantaFont32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_InfantaFont64.dds",
+                      "sha256":  "e851a960f09a86809c0108a030ce3af7bc0f3b54fe7c9a26a7a1b6a010f9f18e",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_InfantaFont64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_infante16.dds",
+                      "sha256":  "85d9e282ccceda570daa903e1204cdb2719c08fbafd25573d511d9393427ac29",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_infante16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_infante32.dds",
+                      "sha256":  "0ece6b188c31465b1b0b47ca070c715b29f8c341522221cc57d9988b5a8285d3",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_infante32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_infante64.dds",
+                      "sha256":  "bd94476e9a2c08ee0ba6fe68a1f5791379ded0bdde61b263b445236ebdd9f261",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_infante64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_InfanteFont16.dds",
+                      "sha256":  "beb31c3cf8ea3673bbe5a99a829e33ce8a9eb2cc557b02f5606fbe7c7d664aa9",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_InfanteFont16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_InfanteFont32.dds",
+                      "sha256":  "581941c104091c41f47afaa7bf276742af8d96bfee666a094c5eb4a827fddbc8",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_InfanteFont32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_InfanteFont64.dds",
+                      "sha256":  "9074b0b468eff28f867aac04ceb382c7fd9852c31ad8c8675e8c7686846a0fd7",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_InfanteFont64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_marquis16.dds",
+                      "sha256":  "bfb39fb85a424dc7c18c0341357df70f8f323feb89bf9c78b09589d5d0ccd194",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_marquis16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_marquis32.dds",
+                      "sha256":  "ab9ca9f995c3625f8b4c5697cd0a8ccd3bae8790538700c7facd038c61e42685",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_marquis32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_marquis64.dds",
+                      "sha256":  "af5f8930c530e618fb31b1c4b27422ee3dccea9c3651e52e72fbbfac62208d42",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_marquis64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_MarquisFont16.dds",
+                      "sha256":  "836740527d7294ded14b6ab9ae86d11a31afeb08cba3338240377b791c84cc94",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_MarquisFont16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_MarquisFont32.dds",
+                      "sha256":  "1d54f30ab87b51d8b8d4b30fcdd5bef9538b0a5b12d870e4ff80c56f69296663",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_MarquisFont32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_MarquisFont64.dds",
+                      "sha256":  "107187d4906a9d0725dfd3ab1f9f4c233e754492befeb2472d571fc66c1dca57",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_MarquisFont64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_nobility16.dds",
+                      "sha256":  "5c0ed4be1a6c126a31e033686cc31e95eec1c072b64437ca9cebc26e0071910f",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_nobility16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_nobility32.dds",
+                      "sha256":  "13760095975aa4f2bbb7c2a4a82f92fae787c94c0d7e779c23ed7a89493bc730",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_nobility32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_nobility64.dds",
+                      "sha256":  "f98bf09e187037ab901c2731d5f835655a6c61f8a4b383d288f74f01571c9959",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_nobility64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_NobilityFont16.dds",
+                      "sha256":  "9b66837abb2cbad76ecc39ee30132e862ae334d4afdc98d08a9c44282e6fad20",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_NobilityFont16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_NobilityFont32.dds",
+                      "sha256":  "f229fd5f8ca6ae282775e70df4fd8b041ab9d06db2ee80f7377dd11de868000d",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_NobilityFont32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_NobilityFont64.dds",
+                      "sha256":  "88f185629d0c6836e4db27c2d1f552330183802324902df3f1be1ef736d1a399",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_NobilityFont64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_uncle16.dds",
+                      "sha256":  "fe02b38f7aa702cb7e639dc325780ddecf3bd63c7f86d0c6c2e727c546681382",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_uncle16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_uncle32.dds",
+                      "sha256":  "8627f0da304367a91d0ba4114c5ca1b29a1704d508531afea4213aa533757b14",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_uncle32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_uncle64.dds",
+                      "sha256":  "9443eb0375cca0703fb0f128099dbca45e6b15b477eb9a020dc880af7e947ff7",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_uncle64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_UncleFont16.dds",
+                      "sha256":  "188a97f2012571425b3a8f9e4e03ab5fc286ca05eb48d5bb73b0c037463f7907",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_UncleFont16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_UncleFont32.dds",
+                      "sha256":  "c98294aa595301ecfad34a007b4fad4376d30c3a315c85629a60580e555e25ce",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_UncleFont32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_UncleFont64.dds",
+                      "sha256":  "cb579f6f01c4a97740c5c57f84e235d93c77656dfcf3fd586c873317c198833e",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_UncleFont64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_white16.dds",
+                      "sha256":  "3c7d178ebfa23497043717d608fa0f504b2ff219b7f29427426e02aec0cd38de",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_white16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_white32.dds",
+                      "sha256":  "220ba20604ff5b1e49c9ad161ccb9f33dab426e5efa7014cf48af107bebe6e8f",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_white32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_white64.dds",
+                      "sha256":  "492cf7847cfc699cc2a74992701258806716a64801967d061365c17beaa2c3ff",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_white64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_WhiteFont16.dds",
+                      "sha256":  "873fccb3ad10110ac35d6a2fb7b4553ffaaf8ed347e771aa7d5adb8c23705577",
+                      "size":  384,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_WhiteFont16.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_WhiteFont32.dds",
+                      "sha256":  "d6834eac9e9b4562360febda69c8837a1ebb6faa0cc42846800b462035e589a3",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_WhiteFont32.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/nobility/nob_WhiteFont64.dds",
+                      "sha256":  "c081075f5b636e05732ebe084153798465c284328d0576d2d465626ddcdc060b",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/nobility/nob_WhiteFont64.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/path/path_auto-1.dds",
+                      "sha256":  "2a4c2e57abab1ae1066a674c45ff76ad7000c2cb7d9391b22df53dd2f5f27c4b",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/path/path_auto-1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/path/path_auto-2.dds",
+                      "sha256":  "78ccc3bf158202cb96e0da44b2ed75a1f9e03485babaf40b76d5c4336d99734c",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/path/path_auto-2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/path/path_auto-3.dds",
+                      "sha256":  "4df30c33e8607c8dd78e60f486d2b4e0b1abc0073247daf396cdb44ba3e9bdbd",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/path/path_auto-3.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/path/path_bottom.dds",
+                      "sha256":  "143c1ae65be96d334955ff6c032af6d37a15e4aac09ce1cb95a0499caeaec8d7",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/path/path_bottom.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/path/path_menutitle.dds",
+                      "sha256":  "a9a138fde2e94ef986c9e7997cb1f141008fafb39f8167da868ea83a4a2e55f3",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/path/path_menutitle.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/path/path_target1.dds",
+                      "sha256":  "43d2dd8dd210dd83d519b12a8d7ec15a6d23f4c6d6461173cd5f015c824b0abe",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/path/path_target1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/path/path_target2.dds",
+                      "sha256":  "27636242a691e7adf15873a037148e0c622da9c50acc409bc05462fd27c0067f",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/path/path_target2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/path/path_target3.dds",
+                      "sha256":  "d1647cec3d9482660c7ad68189a3368a3ab3f2d9b037c78f5dcf95a02c35a326",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/path/path_target3.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/path/path_title.dds",
+                      "sha256":  "3043df95d68d8106f70f0b3f3c6dd4c6a110a25e309243e1b8b94dadd9ff07ef",
+                      "size":  8320,
+                      "url":  "v2026.05.31.1/data/interface/Style01/path/path_title.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/PublicBtn/PublicSelectD.dds",
+                      "sha256":  "4246630b070cd60a466eb89cba60bdff5f16cebfaa2d5e15162bf82bfb19af84",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/PublicBtn/PublicSelectD.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/PublicBtn/PublicSelectDClick.dds",
+                      "sha256":  "4734c1e58f8d838ef03eb7f0082eab76b5b87558eef0424bed5bb0adf829b330",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/PublicBtn/PublicSelectDClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/PublicBtn/PublicSelectU.dds",
+                      "sha256":  "535c2f81c3acc2a058dd37911cf2fb99f088d0655f183a47429f151250fcfa21",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/PublicBtn/PublicSelectU.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/PublicBtn/PublicSelectUClick.dds",
+                      "sha256":  "b37fa197f0d39be928df412e38a99233df0611e0bec9cb74998fba811e643047",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/PublicBtn/PublicSelectUClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/shop/Vip.dds",
+                      "sha256":  "fdba8fcbdc41d0f7963c3777e8353c8329ec4d696a2cf95ba2e5949253a04585",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/shop/Vip.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/shop/VipClick.dds",
+                      "sha256":  "0c0855c0695151464a66ff04e0810da9cec5a32b4fb6c178eb00a4538c75d1b8",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/shop/VipClick.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/shop/WithdrawEMoney01.dds",
+                      "sha256":  "1616322cfcdbf1e05ed5774b096877be6a7319c9b60b3191ca0df7dcf3aa0d53",
+                      "size":  16512,
+                      "url":  "v2026.05.31.1/data/interface/Style01/shop/WithdrawEMoney01.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/shop/WithdrawEMoney02.dds",
+                      "sha256":  "b4d825767fd43cfa7058f0fad9f4789c45f5b3b6bbe7e970b4fcb6c73d797823",
+                      "size":  16512,
+                      "url":  "v2026.05.31.1/data/interface/Style01/shop/WithdrawEMoney02.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/shop/WithdrawEMoney03.dds",
+                      "sha256":  "f63f43093fef63e144add5ff25c779bace2775aaaa45840ca49c0588f183c145",
+                      "size":  16512,
+                      "url":  "v2026.05.31.1/data/interface/Style01/shop/WithdrawEMoney03.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-b1.dds",
+                      "sha256":  "c6e1e3d34c5a99af086073b6cd2d5ea4e87eef8a06523b859690d01a1458644c",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-b1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-b2.dds",
+                      "sha256":  "a9e988a6b65a72f32483c0424cab407dfdef08dc8778a8c27f21c2c899f573ee",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-b2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-b3.dds",
+                      "sha256":  "33133d7607b73287b2cda2c2d3b27d41d629b32a60de8fbc96b2474ebb75041d",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-b3.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-bc-online1.dds",
+                      "sha256":  "a1119b09ec91e0ed86f769d25e9ef0a1938a1182e0d53a38846043d0b5ffd389",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-bc-online1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-bc-online2.dds",
+                      "sha256":  "d0e16baf9c9d93ef911df42cc88babc718ea9e3f9b3caee3a99f98dd9f143923",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-bc-online2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-bigdismiss1.dds",
+                      "sha256":  "c90acc9824661c108244f516f2df2dfff29928c96cccdba0283fcf4c9f2d299d",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-bigdismiss1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-bigdismiss2.dds",
+                      "sha256":  "fe07019f278a0bd3510eed10e2121d91c50438bb9c57f1008d686fa6d8be3522",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-bigdismiss2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-bigpangshi1.dds",
+                      "sha256":  "904f9469b7b28425535254b8bc65cfcfcec4feda05d5b58918daaa70f9f18f38",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-bigpangshi1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-bigpangshi2.dds",
+                      "sha256":  "cb79d7d34d5b30d13f7c6c3b7dbcd4cbbc76d7ca358a0f21733270adcea4bbcb",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-bigpangshi2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-business1.dds",
+                      "sha256":  "3dfbbf55b0c97e24e9e116ffa310df1aee79e70f443adde0631cd852ac433c2f",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-business1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-business2.dds",
+                      "sha256":  "1806ad7eca1c7f2181e5f2be85c6f0f469affa884738e9d52e14ef5b68848e81",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-business2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-cls-his1.dds",
+                      "sha256":  "7fdeac5f95538f54e8d877cd63e9ab8098abcf570c8a2a1e487be2227381bade",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-cls-his1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-cls-his2.dds",
+                      "sha256":  "bafd5f8a682b753f1ab707ea46222f2761133ca787dc500f5c4a3a2f0e9ada63",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-cls-his2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-cls-online1.dds",
+                      "sha256":  "d67e083d26d0002ddb9c3398ff62b492057bcadaebfd23907fc173558f778a63",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-cls-online1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-cls-online2.dds",
+                      "sha256":  "02d2dfc5b16a7af9d698327de29043171607f8b89d0fd02166c904690b55c00c",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-cls-online2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-contribute1.dds",
+                      "sha256":  "7439bd87aaf7c89da632fac051aab53889b82bf07b606d470af762b07c6b1621",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-contribute1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-contribute2.dds",
+                      "sha256":  "197df007b220778ec169b2d212ddca01bd2efef8132bb78ba3f2c47d76e52733",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-contribute2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-contribute3.dds",
+                      "sha256":  "39a366777eb0fcd2e84a5d5154203a60f095562ce01ed9fc0d5fb9acaec53cdd",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-contribute3.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-dismiss1.dds",
+                      "sha256":  "16c1595f506e3ada9cc43b9622c72c24a0bc44d70a9414dbeb9e01dc90a403d8",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-dismiss1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-dismiss2.dds",
+                      "sha256":  "a0541fb08c6ee2090767725977f628a37b4443bedc86c99ec7786818d791d882",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-dismiss2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-dismiss3.dds",
+                      "sha256":  "b4cad3de20ed5dcdd8781ecbdf76e7fa6ef2f7f5b0d87daa44f1616cede86209",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-dismiss3.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-dssy1.dds",
+                      "sha256":  "ca3d210f13948ba6f4900198b3617ae7dbfd22cf1951a04d3369276ccc5147b4",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-dssy1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-dssy2.dds",
+                      "sha256":  "828db43615bdcff4dd7092d5a118a746cfcf439fa5f6886fe82203a28a529a64",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-dssy2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-Enemy1.dds",
+                      "sha256":  "f9a55376504dc5c8fee5b1087496f466f4a0225adcc74751816290b2ad702be6",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-Enemy1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-Enemy2.dds",
+                      "sha256":  "7ab1c97f3d76b5b6eaa4f77a58d534d94df4a8500aaaf9f8bdc1da7f5283d834",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-Enemy2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-friend1.dds",
+                      "sha256":  "a5c0adaae11bd3cd1a408327b31bfc45d0d41760e7bf5212b541e81a7ac776eb",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-friend1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-friend2.dds",
+                      "sha256":  "fa6afaad63cb966a3f9f6859d577ada99c30a702e4496cd47a0a711960d51bb7",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-friend2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-lq1.dds",
+                      "sha256":  "15debe857ac1752407583f33dc7b3062dd74c16bbf7cee471940ce248466fd27",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-lq1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-lq2.dds",
+                      "sha256":  "ba3fb4e0c51bb4f12f49467f7d0591823906d0a3a73143476eb3709443b0a8d5",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-lq2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-master1.dds",
+                      "sha256":  "d1600ff216f12280e2c2f5ad26a800e8a0bb815a72139fe80625ff1e517b6c39",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-master1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-master2.dds",
+                      "sha256":  "f4c3555a6abf9f19c37bd168ed2a61619cc3cb5e646883ed7683d6a52246ffc1",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-master2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-master3.dds",
+                      "sha256":  "2c856e28e0aa8138583625ff37502dde6548d41f95ceaff8963811a4db6a10d1",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-master3.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-pangshi1.dds",
+                      "sha256":  "8ac129a393ed46dffa09f111f6969ae2bbb3b76ec3fd6bf62d324206a95f1fb4",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-pangshi1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-pangshi2.dds",
+                      "sha256":  "bd8d5ae4cce22fabec4088790a71b3f39065d2b1d3ffc0e3db24912c62cc4d66",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-pangshi2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-per1.dds",
+                      "sha256":  "543e3e41aff9bb5e4fcd5099e526acedf152d19a16065dc415fc2b543c1cea3e",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-per1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-per2.dds",
+                      "sha256":  "574b8d2f4968cb862fbe3e8653612a5c86932b0b0a152c1c3e01c7812e12edce",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-per2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-shoutu1.dds",
+                      "sha256":  "dea6de11747f0553b408c94ea3a77d296998f28507f340ffb43dab365db936e5",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-shoutu1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-shoutu2.dds",
+                      "sha256":  "33fd090772ab8ee5033b0c22aa412363bb298a519810e5a0215ad0d619f43554",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-shoutu2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-shoutu3.dds",
+                      "sha256":  "3f0f86012ca60f6dd89f406cd71fa62d50723820cc8e905beaa148533736bda1",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-shoutu3.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-sj-his1.dds",
+                      "sha256":  "5fc5ab6ea5b3160229010c9f60dc65a7339cb8288f7d9248986a6b44b9e5bc11",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-sj-his1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-sj-his2.dds",
+                      "sha256":  "397299cd0b60c1eaa21f72829b4a958fc1d19a78eb7a756b63a91b876e683e3c",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-sj-his2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-sj-online1.dds",
+                      "sha256":  "600b52213a09c32921cf2cf6ae4b6480016af4c68150a71a14cd7af4217a615b",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-sj-online1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-sj-online2.dds",
+                      "sha256":  "11e5f0a66b40621e6bfae3fa2f6ead4560b5820f58a91e62aa0e3006352fae4b",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-sj-online2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-teacher1.dds",
+                      "sha256":  "d07ed37edd3301371c12b4d34ff50583a6fba428ee54acbd1f4316bb75b7380b",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-teacher1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-teacher2.dds",
+                      "sha256":  "e7007356cdc102a1296f9c07d870d4de25c55990419ffaed9dafb03891584726",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-teacher2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-tudi1.dds",
+                      "sha256":  "65ba2c85816f7fc752788ff3870cdde4dc4ed0a3cf9afa6a80273e52b95d3cf5",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-tudi1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-tudi2.dds",
+                      "sha256":  "0a61734ca3a87cdbfeb9ea64cceaa278a17c6af6823196fff2b9a68175082649",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-tudi2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-tudigx1.dds",
+                      "sha256":  "257087848397cce47ba0023a2de25a1d7c55f7657ab6e06d8738087430231726",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-tudigx1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-tudigx2.dds",
+                      "sha256":  "ef5a2301a52d92d391b5bf067aec024a6a9c8da0015f9f4378705f9e22f0b2a2",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-tudigx2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-view1.dds",
+                      "sha256":  "cff7dbf640a7d378cc95ba22d0b9fa39824ba7483a4ed02f0c9528df501ec00a",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-view1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-view2.dds",
+                      "sha256":  "dd7934f8f2af25feefed24a464bcb3fd37e9bf4a72d3a46542ac5a67ee2e566d",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-view2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-viewtushun1.dds",
+                      "sha256":  "17444c0a0abe5923acfff4adf9afac121dcf46a091b7323c6c3011e881f31e49",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-viewtushun1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-viewtushun2.dds",
+                      "sha256":  "c700ed0c6e35560b1867f4958b8b8f2b4214d24b5cad1b4d2e72a770e5de238e",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-viewtushun2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-wlq1.dds",
+                      "sha256":  "cdecc32fe8f98a9964855af5d0dad681958eac0dc28cab08f5365cc9aa576f36",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-wlq1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-wlq2.dds",
+                      "sha256":  "f74760a57f0d0702b312b735b7a899d6f0518ae92b660263529ef0b03cca274c",
+                      "size":  2176,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-wlq2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-zf-his1.dds",
+                      "sha256":  "4449fb324d15517ad3cb00f2e3261c2281ef9646f4591a1da342e899e815958a",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-zf-his1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-zf-his2.dds",
+                      "sha256":  "291179bd5cfeb84829f662106c0757df982d22886e14f54d814954385fb5c35c",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-zf-his2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-zf-online1.dds",
+                      "sha256":  "c80b87edcdf8e0e300cc6ca7d391d94a109ac1c1bba9f5bb6cffa82626d62d05",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-zf-online1.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/but-zf-online2.dds",
+                      "sha256":  "52b67c8d807bed27f75b153d9220f5704739f08efce9219bf8644c8b995e8f14",
+                      "size":  4224,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/but-zf-online2.dds"
+                  },
+                  {
+                      "path":  "data/interface/Style01/Teacher/ExpBall01.dds",
+                      "sha256":  "bb9a2c443875492e66b46248c52da2f632678cd4fbc9f91c638b2bc619d4e6e7",
+                      "size":  1152,
+                      "url":  "v2026.05.31.1/data/interface/Style01/Teacher/ExpBall01.dds"
+                  },
+                  {
+                      "path":  "ini/3DEffect.ini",
+                      "sha256":  "453e17ca587f32a23ebf41350ff63e260e9a1d035eb905bcec4c9974a41024e7",
+                      "size":  460346,
+                      "url":  "v2026.05.31.1/ini/3DEffect.ini"
+                  },
+                  {
+                      "path":  "ini/3DEffectInfo.ini",
+                      "sha256":  "e239777cd8e8de144bd55f9427d28d80ed8863a1f4cd8494a45ed57484c21895",
+                      "size":  200,
+                      "url":  "v2026.05.31.1/ini/3DEffectInfo.ini"
+                  },
+                  {
+                      "path":  "ini/3DEffectObj.ini",
+                      "sha256":  "5c4d11c17e874cb97cc693f8e8ae692e74092c9e5169edeb8740e8031dc99030",
+                      "size":  76951,
+                      "url":  "v2026.05.31.1/ini/3DEffectObj.ini"
+                  },
+                  {
+                      "path":  "ini/3DFlyingObj.ini",
+                      "sha256":  "c329c08756b167eacdceef92ee92b1c093c386826d8f5c3411784547ca9a38e1",
+                      "size":  13528,
+                      "url":  "v2026.05.31.1/ini/3DFlyingObj.ini"
+                  },
+                  {
+                      "path":  "ini/3dmotion.ini",
+                      "sha256":  "e72c594c634ac6b2710901d8eae7597bfa4d869138a8e0315759795521a8ee19",
+                      "size":  1807005,
+                      "url":  "v2026.05.31.1/ini/3dmotion.ini"
+                  },
+                  {
+                      "path":  "ini/3dobj.ini",
+                      "sha256":  "56a2f16b5acd5707b351f10c73ac19e449c093a62f4f9340f831fb54d43ae82b",
+                      "size":  39281,
+                      "url":  "v2026.05.31.1/ini/3dobj.ini"
+                  },
+                  {
+                      "path":  "ini/3DSimpleObj.ini",
+                      "sha256":  "94b345844391e550844fe8eeece827e26fda0091cc643f25fe63ad884c3201cd",
+                      "size":  10444,
+                      "url":  "v2026.05.31.1/ini/3DSimpleObj.ini"
+                  },
+                  {
+                      "path":  "ini/3DSimpleObjEx.ini",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "v2026.05.31.1/ini/3DSimpleObjEx.ini"
+                  },
+                  {
+                      "path":  "ini/3DsimpleRole.ini",
+                      "sha256":  "79ce29e87a66492350ee7cf606fe7e4e082cbe43078d15d4fc39181e58fd4957",
+                      "size":  2435,
+                      "url":  "v2026.05.31.1/ini/3DsimpleRole.ini"
+                  },
+                  {
+                      "path":  "ini/3dtexture.ini",
+                      "sha256":  "e40f88bb374e85ebaaa7e4519f72d45f45bd1c5f87a65dd665d56834e0131be6",
+                      "size":  246363,
+                      "url":  "v2026.05.31.1/ini/3dtexture.ini"
+                  },
+                  {
+                      "path":  "ini/Action.dat",
+                      "sha256":  "21d582f2ebad31bff12e368330e083955db3ee5bf42038858bacb5d1763df165",
+                      "size":  1064,
+                      "url":  "v2026.05.31.1/ini/Action.dat"
+                  },
+                  {
+                      "path":  "ini/Action3DEffect.ini",
+                      "sha256":  "3e0a6677548cb0a7dcf026e04718895c1847d21161c72386d3e5e39c51c6cf57",
+                      "size":  218421,
+                      "url":  "v2026.05.31.1/ini/Action3DEffect.ini"
+                  },
+                  {
+                      "path":  "ini/ActionCtrl.ini",
+                      "sha256":  "4677aa2dec88cb5d5526870a9faaef48c21b373b8bed02f324bc63563285dea2",
+                      "size":  6491,
+                      "url":  "v2026.05.31.1/ini/ActionCtrl.ini"
+                  },
+                  {
+                      "path":  "ini/ActionDelay.ini",
+                      "sha256":  "50fd50b7e65c32d4dbdc68fbb12603c586ad493104921d54638004b984bb2eb3",
+                      "size":  157292,
+                      "url":  "v2026.05.31.1/ini/ActionDelay.ini"
+                  },
+                  {
+                      "path":  "ini/ActionMap3DEffect.ini",
+                      "sha256":  "3d632581b105b47c4b0f8b9d7705007d140c28f94e876cecdac6b20739f91654",
+                      "size":  3790,
+                      "url":  "v2026.05.31.1/ini/ActionMap3DEffect.ini"
+                  },
+                  {
+                      "path":  "ini/ActionSound.ini",
+                      "sha256":  "82acc97be63cd89ae8cd048d9f92513a93ef5fa1880067cad0790b5c0f2b2132",
+                      "size":  126650,
+                      "url":  "v2026.05.31.1/ini/ActionSound.ini"
+                  },
+                  {
+                      "path":  "ini/ActionTransition.ini",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "v2026.05.31.1/ini/ActionTransition.ini"
+                  },
+                  {
+                      "path":  "ini/AdditiveSize.ini",
+                      "sha256":  "16230bc3749816d87e390015abee848813d02d8a6191f2614054378bc5b50bd9",
+                      "size":  3414,
+                      "url":  "v2026.05.31.1/ini/AdditiveSize.ini"
+                  },
+                  {
+                      "path":  "ini/armet.ini",
+                      "sha256":  "5da2eb71438aef13235772c7850bcc21b3f6b29e1f001ae506878945b0e3ec97",
+                      "size":  124762,
+                      "url":  "v2026.05.31.1/ini/armet.ini"
+                  },
+                  {
+                      "path":  "ini/armetmotion.ini",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "v2026.05.31.1/ini/armetmotion.ini"
+                  },
+                  {
+                      "path":  "ini/armor.ini",
+                      "sha256":  "f155cd7402289360042fad3f384b5fc9bb99c0101fb0e51dc24c58cb331f07cd",
+                      "size":  98542,
+                      "url":  "v2026.05.31.1/ini/armor.ini"
+                  },
+                  {
+                      "path":  "ini/AutoAllot.dat",
+                      "sha256":  "7ae286139f9cd927e1178dd7ab998e08ec391a0fa0b828a67b89fc2a5d875d80",
+                      "size":  17324,
+                      "url":  "v2026.05.31.1/ini/AutoAllot.dat"
+                  },
+                  {
+                      "path":  "ini/ChatFilter.ini",
+                      "sha256":  "0b85b2e3fa5d0750b6cba7ba907cb6b77eebdab92ffa18d9b198b991b640ca55",
+                      "size":  4351,
+                      "url":  "v2026.05.31.1/ini/ChatFilter.ini"
+                  },
+                  {
+                      "path":  "ini/CHATGUI.ini",
+                      "sha256":  "a3f0787223963904023511455f94b8a8720d7f5733ffa2a9af286a69b6e3fa39",
+                      "size":  1850,
+                      "url":  "v2026.05.31.1/ini/CHATGUI.ini"
+                  },
+                  {
+                      "path":  "ini/chatSetup.ini",
+                      "sha256":  "d441f23daee025f4124d0830f027aa946fb3704a274c7723c8f700d1dece2bd4",
+                      "size":  99,
+                      "url":  "v2026.05.31.1/ini/chatSetup.ini"
+                  },
+                  {
+                      "path":  "ini/ChatTips.ini",
+                      "sha256":  "20da980cc7a8cd5d83c38876566f6b7f7a4fc9cce5492b4dad6c381dda8cdf11",
+                      "size":  14955,
+                      "url":  "v2026.05.31.1/ini/ChatTips.ini"
+                  },
+                  {
+                      "path":  "ini/Common.ini",
+                      "sha256":  "4f936e6d5ca9d2ac350d1d505ebd3820169e48b541b196e1e36a3ecc6c76e143",
+                      "size":  1777,
+                      "url":  "v2026.05.31.1/ini/Common.ini"
+                  },
+                  {
+                      "path":  "ini/ControlAction.ini",
+                      "sha256":  "64957464501cf4ac56945782df61b613bcd9fbb1a623445c32c2d3011e34b42b",
+                      "size":  29,
+                      "url":  "v2026.05.31.1/ini/ControlAction.ini"
+                  },
+                  {
+                      "path":  "ini/DefaultGameSetup.ini",
+                      "sha256":  "ce0765d24706d1d541ff49e50d5bbdef8da87f9f772adb9f2c3f9f05e0af8553",
+                      "size":  50,
+                      "url":  "v2026.05.31.1/ini/DefaultGameSetup.ini"
+                  },
+                  {
+                      "path":  "ini/effect.ini",
+                      "sha256":  "8704b9174c478f6bca57d81b0f9beeb632617a51587f88ea898990fb25de08c8",
+                      "size":  2480,
+                      "url":  "v2026.05.31.1/ini/effect.ini"
+                  },
+                  {
+                      "path":  "ini/EmotionIco.ini",
+                      "sha256":  "50c2dd64c84d56b206c6a69ad790d2ec10b9c207fe80c8810e5e7a9298d6e5d7",
+                      "size":  641,
+                      "url":  "v2026.05.31.1/ini/EmotionIco.ini"
+                  },
+                  {
+                      "path":  "ini/EventTypeName.ini",
+                      "sha256":  "98751cc65ca6f1bedb3260a39cdba2ae6476c06d778a2d8c02f68b4c3b550eb2",
+                      "size":  382,
+                      "url":  "v2026.05.31.1/ini/EventTypeName.ini"
+                  },
+                  {
+                      "path":  "ini/flashLogin.ini",
+                      "sha256":  "d1463185ab073620eda280d2460ce01397e129f2273791c8ee7f7a8698b7effb",
+                      "size":  1664,
+                      "url":  "v2026.05.31.1/ini/flashLogin.ini"
+                  },
+                  {
+                      "path":  "ini/Font.ini",
+                      "sha256":  "ae9b02847ba8fcf8c007f698d28d0870c37b8340ecfc40fa73331b3498525f4f",
+                      "size":  14,
+                      "url":  "v2026.05.31.1/ini/Font.ini"
+                  },
+                  {
+                      "path":  "ini/fuse.ini",
+                      "sha256":  "d4f73475362fd492c9421a7e9cf45e4f8032e2bee75dde9da9e13e3ee546fbc9",
+                      "size":  25534,
+                      "url":  "v2026.05.31.1/ini/fuse.ini"
+                  },
+                  {
+                      "path":  "ini/GameMap.dat",
+                      "sha256":  "d89a533aeb9fdbc4038d36b901455ee569cb8a1d3765438ace945ade9a179956",
+                      "size":  4985,
+                      "url":  "v2026.05.31.1/ini/GameMap.dat"
+                  },
+                  {
+                      "path":  "ini/graphic.ini",
+                      "sha256":  "c603939153b5aa5b119b75f7263128f8f693a36fed75f393b4dbd47d3bb690b1",
+                      "size":  37,
+                      "url":  "v2026.05.31.1/ini/graphic.ini"
+                  },
+                  {
+                      "path":  "ini/GUI.ini",
+                      "sha256":  "128abebc89b51225df837afbd3627903dddd7cf06d30626f2cf2086fc4d034c4",
+                      "size":  91414,
+                      "url":  "v2026.05.31.1/ini/GUI.ini"
+                  },
+                  {
+                      "path":  "ini/GUI800X600.ini",
+                      "sha256":  "29ff600077876f9a42dc403df7b7d932b1082baa082797cd0217c7e6952686be",
+                      "size":  91892,
+                      "url":  "v2026.05.31.1/ini/GUI800X600.ini"
+                  },
+                  {
+                      "path":  "ini/HairMotion.ini",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "v2026.05.31.1/ini/HairMotion.ini"
+                  },
+                  {
+                      "path":  "ini/head.ini",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "v2026.05.31.1/ini/head.ini"
+                  },
+                  {
+                      "path":  "ini/headmotion.ini",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "v2026.05.31.1/ini/headmotion.ini"
+                  },
+                  {
+                      "path":  "ini/immediate.ini",
+                      "sha256":  "e7735e57da827642f04fbe140e3053718eec0776abb3a9391d0623fc4c7e0867",
+                      "size":  650910,
+                      "url":  "v2026.05.31.1/ini/immediate.ini"
+                  },
+                  {
+                      "path":  "ini/info.ini",
+                      "sha256":  "dfbbc650b6e6438dde51ef2ca1e9e315de1858680d4af358f3dfd19a98f9042e",
+                      "size":  293,
+                      "url":  "v2026.05.31.1/ini/info.ini"
+                  },
+                  {
+                      "path":  "ini/ItemAdd.ini",
+                      "sha256":  "ebf93e766f9d680dd3c70111bebe7243935ce7d8f97f2842ff8e33f72f0e1acf",
+                      "size":  120666,
+                      "url":  "v2026.05.31.1/ini/ItemAdd.ini"
+                  },
+                  {
+                      "path":  "ini/itemprice.ini",
+                      "sha256":  "01b67c8bef19e3f84db6f3fe9eb4957ba02037a6c58521a8949f953166a2dc6c",
+                      "size":  14116,
+                      "url":  "v2026.05.31.1/ini/itemprice.ini"
+                  },
+                  {
+                      "path":  "ini/ItemTexture.ini",
+                      "sha256":  "8470e3af898a39912717c84fe15cda09d32096672c1361688fda0ea21855dbf9",
+                      "size":  104418,
+                      "url":  "v2026.05.31.1/ini/ItemTexture.ini"
+                  },
+                  {
+                      "path":  "ini/itemtype.dat",
+                      "sha256":  "16c383812c143ee718629261c8d40b6dfb35a3d35b2385e9a7f4be3f35f5e408",
+                      "size":  888850,
+                      "url":  "v2026.05.31.1/ini/itemtype.dat"
+                  },
+                  {
+                      "path":  "ini/itemtype.dat.bak_unpatched",
+                      "sha256":  "391f9e6272531ce1ca3a246afa852add101c789894e424f6738cd6426363b815",
+                      "size":  890629,
+                      "url":  "v2026.05.31.1/ini/itemtype.dat.bak_unpatched"
+                  },
+                  {
+                      "path":  "ini/LevelExp.dat",
+                      "sha256":  "20642c3fefb4df0af7d24f03073e10fe1c506cf8018fd050cec924e788291dbd",
+                      "size":  516,
+                      "url":  "v2026.05.31.1/ini/LevelExp.dat"
+                  },
+                  {
+                      "path":  "ini/levexp.dat",
+                      "sha256":  "3762487aafb9b2a23417a0857b757a745e26acc182daa8010026c14ffe536223",
+                      "size":  2463,
+                      "url":  "v2026.05.31.1/ini/levexp.dat"
+                  },
+                  {
+                      "path":  "ini/levexp.dat.bak_unpatched",
+                      "sha256":  "2e16d1a2e19b4c466e30843711a84a0eb62b759774a06e9dd4e542a2408387d7",
+                      "size":  2425,
+                      "url":  "v2026.05.31.1/ini/levexp.dat.bak_unpatched"
+                  },
+                  {
+                      "path":  "ini/MagicEffect.ini",
+                      "sha256":  "d328069f0ae627c580c287e415e68fbcddf3c3d1a7214220cbe06a1877984934",
+                      "size":  119,
+                      "url":  "v2026.05.31.1/ini/MagicEffect.ini"
+                  },
+                  {
+                      "path":  "ini/MagicType.dat",
+                      "sha256":  "6083c0d8ca72dd3c8d17d5c641b2583d4b2c066cfc307a0fe40cc2dbaa6b260e",
+                      "size":  1043320,
+                      "url":  "v2026.05.31.1/ini/MagicType.dat"
+                  },
+                  {
+                      "path":  "ini/MapDestination.dat",
+                      "sha256":  "7ef8f5ae61f7069f3ddb3d173beec6dd5b350ea113365fd16276b3813de04809",
+                      "size":  30059,
+                      "url":  "v2026.05.31.1/ini/MapDestination.dat"
+                  },
+                  {
+                      "path":  "ini/MapMagicItem.ini",
+                      "sha256":  "5d81909af18d608649165373312efc6ef8fcf4d08bb3cc0c93e0000c7555c901",
+                      "size":  1409,
+                      "url":  "v2026.05.31.1/ini/MapMagicItem.ini"
+                  },
+                  {
+                      "path":  "ini/Material.ini",
+                      "sha256":  "54af9bcd6c43d74149496647a04f544cbeda4edc13cfdd6bb17c5c3fe90f4179",
+                      "size":  50,
+                      "url":  "v2026.05.31.1/ini/Material.ini"
+                  },
+                  {
+                      "path":  "ini/MediaEffect.ini",
+                      "sha256":  "d4365f8eb6ade8fa3ba3909de6eed7d4d3a7f56667110652809a4e87fda259f1",
+                      "size":  1808,
+                      "url":  "v2026.05.31.1/ini/MediaEffect.ini"
+                  },
+                  {
+                      "path":  "ini/misc.ini",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "v2026.05.31.1/ini/misc.ini"
+                  },
+                  {
+                      "path":  "ini/miscmotion.ini",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "v2026.05.31.1/ini/miscmotion.ini"
+                  },
+                  {
+                      "path":  "ini/Monster.dat",
+                      "sha256":  "cb2e8d80c2cf4d7fc545610339b4dde392e63cbaccef48148bb537f225180c44",
+                      "size":  127450,
+                      "url":  "v2026.05.31.1/ini/Monster.dat"
+                  },
+                  {
+                      "path":  "ini/Mount.ini",
+                      "sha256":  "aad7f0df81dbaa578153ad9b15fb6e77fe8ce497854f9f90610463e928f8b579",
+                      "size":  49,
+                      "url":  "v2026.05.31.1/ini/Mount.ini"
+                  },
+                  {
+                      "path":  "ini/MountMotion.ini",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "v2026.05.31.1/ini/MountMotion.ini"
+                  },
+                  {
+                      "path":  "ini/MusicRegion.ini",
+                      "sha256":  "d690cb68401b6a1f8de6f1d8472439a77b3e5a1e047cf2f7dd2f6f130912f5b9",
+                      "size":  39416,
+                      "url":  "v2026.05.31.1/ini/MusicRegion.ini"
+                  },
+                  {
+                      "path":  "ini/npc.ini",
+                      "sha256":  "be76f3f776974fadbd6fa5b5c466c7fcb99d1c6313d40714ff9e72a5a564b808",
+                      "size":  92529,
+                      "url":  "v2026.05.31.1/ini/npc.ini"
+                  },
+                  {
+                      "path":  "ini/npcex.ini",
+                      "sha256":  "f578547c80c53ad608d84c3bd672c4a1aff9758646afd373d03006b0c53e415d",
+                      "size":  113,
+                      "url":  "v2026.05.31.1/ini/npcex.ini"
+                  },
+                  {
+                      "path":  "ini/NpcX.ini",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "v2026.05.31.1/ini/NpcX.ini"
+                  },
+                  {
+                      "path":  "ini/package.ini",
+                      "sha256":  "3c58be2f2054e9dee249d9568058d4003174ae54c26f86a205bb5300ec614ddb",
+                      "size":  18,
+                      "url":  "v2026.05.31.1/ini/package.ini"
+                  },
+                  {
+                      "path":  "ini/Pet.Dat",
+                      "sha256":  "ac31dcad7a3219235e00a0d4925cb390846ac343844502dba439874a90850ecd",
+                      "size":  236,
+                      "url":  "v2026.05.31.1/ini/Pet.Dat"
+                  },
+                  {
+                      "path":  "ini/Play.dat",
+                      "sha256":  "390167a2954b6b99dc4ab770013b001d74c26eb985136ac9f6fa6aeb907c452e",
+                      "size":  634,
+                      "url":  "v2026.05.31.1/ini/Play.dat"
+                  },
+                  {
+                      "path":  "ini/PlayGui.ini",
+                      "sha256":  "3e3afdcfe6409cbe3a205bc65964f38f3454508445f0d7f82429edd354b5371f",
+                      "size":  424,
+                      "url":  "v2026.05.31.1/ini/PlayGui.ini"
+                  },
+                  {
+                      "path":  "ini/ProfessionalName.ini",
+                      "sha256":  "4048772c3968ae480e03f8ea91e23b434c157868a9442a6fda275b707b631adc",
+                      "size":  743,
+                      "url":  "v2026.05.31.1/ini/ProfessionalName.ini"
+                  },
+                  {
+                      "path":  "ini/ProgressHp.rgn",
+                      "sha256":  "b7e8ed940da85bbe09e2eb96f7a074ca29f5d29d9cd121fb326373cb5540cea1",
+                      "size":  724,
+                      "url":  "v2026.05.31.1/ini/ProgressHp.rgn"
+                  },
+                  {
+                      "path":  "ini/ProgressMp.rgn",
+                      "sha256":  "3aefd750231895a99d062276d460164d1004fbde7e3bbe3e922f1dea5bf743f4",
+                      "size":  724,
+                      "url":  "v2026.05.31.1/ini/ProgressMp.rgn"
+                  },
+                  {
+                      "path":  "ini/ProgressXp.rgn",
+                      "sha256":  "8bbc96e993105cb97ff01d6ea5201c406d88aa0b91a5055b95617b89f28c62bc",
+                      "size":  1988,
+                      "url":  "v2026.05.31.1/ini/ProgressXp.rgn"
+                  },
+                  {
+                      "path":  "ini/region.ini",
+                      "sha256":  "3a2e73570827c0c6b2149c548c0918f45b38ca5eab0420e2d04c4b313c3494e1",
+                      "size":  1433,
+                      "url":  "v2026.05.31.1/ini/region.ini"
+                  },
+                  {
+                      "path":  "ini/restrain.ini",
+                      "sha256":  "c2353ec967ac7b767cdb19bc4a2e1df1573030da0de556824b17344aab7b7f92",
+                      "size":  322,
+                      "url":  "v2026.05.31.1/ini/restrain.ini"
+                  },
+                  {
+                      "path":  "ini/RolePart.ini",
+                      "sha256":  "c8c7184c6edfd026d4b3a9bc999f9ae4e74a575a68cb3fdf790356a3a618e29d",
+                      "size":  721,
+                      "url":  "v2026.05.31.1/ini/RolePart.ini"
+                  },
+                  {
+                      "path":  "ini/selectCharacter.ini",
+                      "sha256":  "5f2b7f8dca89c8a35c22acbb66252ee08dd476c1bc0e1dfa35757be716d45cd0",
+                      "size":  2900,
+                      "url":  "v2026.05.31.1/ini/selectCharacter.ini"
+                  },
+                  {
+                      "path":  "ini/Shop.dat",
+                      "sha256":  "e5988ee145b26e54047d48f315d90928153297bbd938993408a8b4e304176e72",
+                      "size":  22643,
+                      "url":  "v2026.05.31.1/ini/Shop.dat"
+                  },
+                  {
+                      "path":  "ini/sound.ini",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "v2026.05.31.1/ini/sound.ini"
+                  },
+                  {
+                      "path":  "ini/StartGame.ini",
+                      "sha256":  "b5bf7faa9b20c9a476535748353f4facaa456b9e27335e640b4488afde79eb4e",
+                      "size":  34,
+                      "url":  "v2026.05.31.1/ini/StartGame.ini"
+                  },
+                  {
+                      "path":  "ini/statuseffect.ini",
+                      "sha256":  "1cac998c497e8b19593169d9e9da4dce056721d1c7b68666ef151a0bc3e72a3c",
+                      "size":  678,
+                      "url":  "v2026.05.31.1/ini/statuseffect.ini"
+                  },
+                  {
+                      "path":  "ini/StatusTips.ini",
+                      "sha256":  "b3db4984c8a175326da4743e6c467b27a7276dba8ca201721f3c208a447d2fa8",
+                      "size":  3600,
+                      "url":  "v2026.05.31.1/ini/StatusTips.ini"
+                  },
+                  {
+                      "path":  "ini/StrRes.ini",
+                      "sha256":  "ec10b7ac16238d42210e7cbfa4b5280ef534f14022be5c51ace18f589db13c24",
+                      "size":  39324,
+                      "url":  "v2026.05.31.1/ini/StrRes.ini"
+                  },
+                  {
+                      "path":  "ini/terrainnpc.ini",
+                      "sha256":  "b2d7ad5dd45a689b2d8fdd530cb6047edf63632374549b967bc5b04e43351a08",
+                      "size":  9243,
+                      "url":  "v2026.05.31.1/ini/terrainnpc.ini"
+                  },
+                  {
+                      "path":  "ini/Tips.dat",
+                      "sha256":  "e3dd083442f3a2fc36fdfeff8f1c21704fb2de13b4ba97ff360364e166eed4fe",
+                      "size":  2577,
+                      "url":  "v2026.05.31.1/ini/Tips.dat"
+                  },
+                  {
+                      "path":  "ini/TransForm.ini",
+                      "sha256":  "6b123d3511eb077344ef7d2887246e4900f612c8ae48016351a01efcd38cd092",
+                      "size":  6705,
+                      "url":  "v2026.05.31.1/ini/TransForm.ini"
+                  },
+                  {
+                      "path":  "ini/tutorType.ini",
+                      "sha256":  "742cd7805f5f224ae2c0cdb071aa68cc743cd6f883ac2172f6cdc797e8fc9d13",
+                      "size":  70,
+                      "url":  "v2026.05.31.1/ini/tutorType.ini"
+                  },
+                  {
+                      "path":  "ini/TxtAction.ini",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0,
+                      "url":  "v2026.05.31.1/ini/TxtAction.ini"
+                  },
+                  {
+                      "path":  "ini/TxtColor.ini",
+                      "sha256":  "b5a7535da469ac48c14c5f97c904b7461c1040c1723d5aeffc1efae92836ce8f",
+                      "size":  43,
+                      "url":  "v2026.05.31.1/ini/TxtColor.ini"
+                  },
+                  {
+                      "path":  "ini/TxtEmotion.ini",
+                      "sha256":  "2c2fe6097e5274192aaeaae8bcb9da46e89507d1ad7a966cc7ef80e3763ef132",
+                      "size":  146,
+                      "url":  "v2026.05.31.1/ini/TxtEmotion.ini"
+                  },
+                  {
+                      "path":  "ini/UserHelpInfo.dat",
+                      "sha256":  "c6dae4c076b53ae29c893409f44b53237ce250fe1eb4edf121dc59c1b95b94ae",
+                      "size":  559672,
+                      "url":  "v2026.05.31.1/ini/UserHelpInfo.dat"
+                  },
+                  {
+                      "path":  "ini/UserHelpInfo.ini.dat",
+                      "sha256":  "737748ccd29d54c7687fc2647dda89dd0b0d3390ce198f597f269f194aeac35e",
+                      "size":  559414,
+                      "url":  "v2026.05.31.1/ini/UserHelpInfo.ini.dat"
+                  },
+                  {
+                      "path":  "ini/weapon.ini",
+                      "sha256":  "afd04b29ae6c87f588a1c678c5b7d502ff265eeb59a4e221dd036b90a288c8f7",
+                      "size":  492014,
+                      "url":  "v2026.05.31.1/ini/weapon.ini"
+                  },
+                  {
+                      "path":  "ini/WeaponCombin.ini",
+                      "sha256":  "9901cb61fd4c97091d1e03a7a30120a0d2c0c5dc562d942bba9d665f5750f844",
+                      "size":  27,
+                      "url":  "v2026.05.31.1/ini/WeaponCombin.ini"
+                  },
+                  {
+                      "path":  "ini/WeaponEffect.ini",
+                      "sha256":  "42de2e650d134c35a3c3e855480bcf970913d5487fb869f3dcf5f23ce85f207f",
+                      "size":  11533,
+                      "url":  "v2026.05.31.1/ini/WeaponEffect.ini"
+                  },
+                  {
+                      "path":  "ini/WeaponMotion.ini",
+                      "sha256":  "33c902b725409ce83df9e3c8a05f53ba4fc3ddf9c6a85d71096fa827620fec60",
+                      "size":  902748,
+                      "url":  "v2026.05.31.1/ini/WeaponMotion.ini"
+                  },
+                  {
+                      "path":  "ini/WeaponSkillLevelExp.ini",
+                      "sha256":  "57b5864d4e33ba9a86bc25435e612c7a7c5daa10c7cdf993efda7c218abbc8c9",
+                      "size":  270,
+                      "url":  "v2026.05.31.1/ini/WeaponSkillLevelExp.ini"
+                  },
+                  {
+                      "path":  "ini/WeaponSkillName.ini",
+                      "sha256":  "c6cd8adf61c53125e4b43dcaacbd28ec738867570cd02e2981d2435f2aec7c06",
+                      "size":  581,
+                      "url":  "v2026.05.31.1/ini/WeaponSkillName.ini"
+                  },
+                  {
+                      "path":  "ini/weather.ini",
+                      "sha256":  "ecb1724aeb2d1cbd31075419f2f3299b4ac67fa82876934dfedbd91289816e39",
+                      "size":  105,
+                      "url":  "v2026.05.31.1/ini/weather.ini"
+                  },
+                  {
+                      "path":  "ini/TerrainMagic/firerain01.TME",
+                      "sha256":  "55d3b92989502acf84444a16d1aa8a28dcfd9d983faf3f1fc2d9720c2ae33fb5",
+                      "size":  436,
+                      "url":  "v2026.05.31.1/ini/TerrainMagic/firerain01.TME"
+                  },
+                  {
+                      "path":  "ini/TerrainMagic/firerain02.TME",
+                      "sha256":  "e442723c3a3cb76ff9acd657573eae34effbf5504cfe5746e8aedd14c341a175",
+                      "size":  580,
+                      "url":  "v2026.05.31.1/ini/TerrainMagic/firerain02.TME"
+                  },
+                  {
+                      "path":  "ini/TerrainMagic/flysword.TME",
+                      "sha256":  "a4977f06c9a3b006a86488b712bc1dd86a50f8c8ef930b819eb58b6a9fe653d5",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/TerrainMagic/flysword.TME"
+                  },
+                  {
+                      "path":  "ini/TerrainMagic/glebesword.TME",
+                      "sha256":  "2b3f38ec94f3a74afbd661998db8a2f4d58f9997fd1a2d6c00c15332ff270672",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/TerrainMagic/glebesword.TME"
+                  },
+                  {
+                      "path":  "ini/TerrainMagic/rain01.TME",
+                      "sha256":  "f7694ec8344fc64264f13728305e221a88d9268d00454cc174a120d564c0fe2f",
+                      "size":  2308,
+                      "url":  "v2026.05.31.1/ini/TerrainMagic/rain01.TME"
+                  },
+                  {
+                      "path":  "ini/TerrainMagic/rain02.TME",
+                      "sha256":  "e448781b902d877ba466e71d1d0e2e146abe812701b5691b1b972e9c5d25e2ae",
+                      "size":  1732,
+                      "url":  "v2026.05.31.1/ini/TerrainMagic/rain02.TME"
+                  },
+                  {
+                      "path":  "ini/TerrainMagic/rain03.TME",
+                      "sha256":  "359d2b2f221f269fba1b14efbfd8bbc88720145f3f15a701d0fcdb43f300326e",
+                      "size":  1732,
+                      "url":  "v2026.05.31.1/ini/TerrainMagic/rain03.TME"
+                  },
+                  {
+                      "path":  "ini/TerrainMagic/swordrain01.TME",
+                      "sha256":  "2c932d8d7b80f4b03bf75298d71de427faaaa236912c00e90701baaf00ebc4b0",
+                      "size":  2452,
+                      "url":  "v2026.05.31.1/ini/TerrainMagic/swordrain01.TME"
+                  },
+                  {
+                      "path":  "ini/TerrainMagic/swordrain02.TME",
+                      "sha256":  "4c2c66dcaae3817692866e93d3f2fb06673baa66bb5da9db928618019fed0f9d",
+                      "size":  1156,
+                      "url":  "v2026.05.31.1/ini/TerrainMagic/swordrain02.TME"
+                  },
+                  {
+                      "path":  "ini/TerrainMagic/thunder1.TME",
+                      "sha256":  "6c58708cd2a1f0cbe121744838cec53e37198252d6d8048aa5657c51ff5d34e0",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/TerrainMagic/thunder1.TME"
+                  },
+                  {
+                      "path":  "ini/TerrainMagic/thunder2.TME",
+                      "sha256":  "502638a54eab0818917dc6efc7ecf1d3127ef88db24d8fe13e461387aa301815",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/TerrainMagic/thunder2.TME"
+                  },
+                  {
+                      "path":  "ini/tme/attackfast20.TME",
+                      "sha256":  "14376fa9ed2d7cd74581e034b4110fb858a8571aa7dc6c5f8028ef5c1cdc40c8",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/attackfast20.TME"
+                  },
+                  {
+                      "path":  "ini/tme/attackfast25.TME",
+                      "sha256":  "63a30e1059883e598b09f11f7741645a1649a469b83cebf81199a67942d0fbc0",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/attackfast25.TME"
+                  },
+                  {
+                      "path":  "ini/tme/attackfast30.TME",
+                      "sha256":  "320e437530ebedd502adbc501d9168b2dd5e0a3e31709c4db777a79fd72e5162",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/attackfast30.TME"
+                  },
+                  {
+                      "path":  "ini/tme/attackfast35.TME",
+                      "sha256":  "0c1bb775279df846acc7ef9dc6e372a15647501ec0683b8d76d2c23a9a5124d6",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/attackfast35.TME"
+                  },
+                  {
+                      "path":  "ini/tme/attackfast40.TME",
+                      "sha256":  "c948adef932350e5e239e3918adeb32d91837475a868373347798705d294e3f0",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/attackfast40.TME"
+                  },
+                  {
+                      "path":  "ini/tme/attackup01.TME",
+                      "sha256":  "3d9958ca9758f6c1ad1463b680e957271b524f2c302ba1a5804a566c618f03be",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/attackup01.TME"
+                  },
+                  {
+                      "path":  "ini/tme/attackup101.TME",
+                      "sha256":  "fb6f894a9278cc155b0abb27f5acffeff2ed9b3473f1aa02c3fec1646801815a",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/attackup101.TME"
+                  },
+                  {
+                      "path":  "ini/tme/attackup120.TME",
+                      "sha256":  "ff17d7e3392dc6b973d073b0b554ddfd85bae2be24783eff05d040c3a2e05779",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/attackup120.TME"
+                  },
+                  {
+                      "path":  "ini/tme/attackup130.TME",
+                      "sha256":  "a1ed65cd0cb91d208eadb57727a12cebc8fd5d02d14bd0c578c0a5f2a8fcd5de",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/attackup130.TME"
+                  },
+                  {
+                      "path":  "ini/tme/attackup20.TME",
+                      "sha256":  "a0e94aaaa0b462bf1f3885b0e9e3c9c4a9eb10c48b26b8b2fe656b99a7d1de36",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/attackup20.TME"
+                  },
+                  {
+                      "path":  "ini/tme/attackup30.TME",
+                      "sha256":  "858db9402ffa4c8601228a593ba56fe13bd580ff56e279c245ae7b8989fd482d",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/attackup30.TME"
+                  },
+                  {
+                      "path":  "ini/tme/blaze1.TME",
+                      "sha256":  "49ebcaac4313ea02a8af019bcaf19c9f490246f8cbfa926ccc3c30cd28660ef9",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/blaze1.TME"
+                  },
+                  {
+                      "path":  "ini/tme/blaze3.TME",
+                      "sha256":  "61c923f3d757adf59ee982af1c158a36407cfec18d6fd5ce8d749561496935da",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/blaze3.TME"
+                  },
+                  {
+                      "path":  "ini/tme/blaze4.TME",
+                      "sha256":  "82b99fb2104f4696b395e3c52c9bfe4aae802795ab22060d38f908c7c425c102",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/blaze4.TME"
+                  },
+                  {
+                      "path":  "ini/tme/blaze7.TME",
+                      "sha256":  "49f7161e9de57bf78c1ba04ebc111a4c32ee2af72b67231bf24d9c37ca7b1b52",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/blaze7.TME"
+                  },
+                  {
+                      "path":  "ini/tme/blaze8.TME",
+                      "sha256":  "1a9923c17d3aff521fae4b5bb16db5218f5ae026010d517410754cf6a83ce7e2",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/blaze8.TME"
+                  },
+                  {
+                      "path":  "ini/tme/energy1.TME",
+                      "sha256":  "6835b471b010286e79448267c666e41024a8b80f59a29f56c82731bdc5be14c0",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/energy1.TME"
+                  },
+                  {
+                      "path":  "ini/tme/Exit.TME",
+                      "sha256":  "c578cabf9006bdca919e07fc306b567e6d4b9101a3292f8c37409469570cbd96",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/Exit.TME"
+                  },
+                  {
+                      "path":  "ini/tme/fire-bomb_1.TME",
+                      "sha256":  "e6c45fc21089ffa4ff3e30a22a2d867c34872278649ad6c84a911208ad07fc23",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/fire-bomb_1.TME"
+                  },
+                  {
+                      "path":  "ini/tme/firerain01.TME",
+                      "sha256":  "55d3b92989502acf84444a16d1aa8a28dcfd9d983faf3f1fc2d9720c2ae33fb5",
+                      "size":  436,
+                      "url":  "v2026.05.31.1/ini/tme/firerain01.TME"
+                  },
+                  {
+                      "path":  "ini/tme/firerain02.TME",
+                      "sha256":  "e442723c3a3cb76ff9acd657573eae34effbf5504cfe5746e8aedd14c341a175",
+                      "size":  580,
+                      "url":  "v2026.05.31.1/ini/tme/firerain02.TME"
+                  },
+                  {
+                      "path":  "ini/tme/flysword.TME",
+                      "sha256":  "a4977f06c9a3b006a86488b712bc1dd86a50f8c8ef930b819eb58b6a9fe653d5",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/flysword.TME"
+                  },
+                  {
+                      "path":  "ini/tme/foot08-6.TME",
+                      "sha256":  "1cde81ce18ee28396bfe82ba86ce80623ddde4cafa3ed88bd7df84fd79100a59",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/foot08-6.TME"
+                  },
+                  {
+                      "path":  "ini/tme/glebesword.TME",
+                      "sha256":  "2b3f38ec94f3a74afbd661998db8a2f4d58f9997fd1a2d6c00c15332ff270672",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/glebesword.TME"
+                  },
+                  {
+                      "path":  "ini/tme/impulse-a.TME",
+                      "sha256":  "83d7b431bbcf3134750b7ebab0b1cb402785919451dba680eb1bebae647b3cef",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/impulse-a.TME"
+                  },
+                  {
+                      "path":  "ini/tme/line04.TME",
+                      "sha256":  "687432d8b411680db472f860ba85dba27efff1a4baf0b480123308d8ca9710cf",
+                      "size":  292,
+                      "url":  "v2026.05.31.1/ini/tme/line04.TME"
+                  },
+                  {
+                      "path":  "ini/tme/line05.TME",
+                      "sha256":  "dba635a8d6d12bf3b8676e893e81d73c94ee4f6d29f5e50bf92efd2f2c74dfa6",
+                      "size":  436,
+                      "url":  "v2026.05.31.1/ini/tme/line05.TME"
+                  },
+                  {
+                      "path":  "ini/tme/line06.TME",
+                      "sha256":  "05cfdd40f2de99e3b4916978cb9815ae720866a220cae3ca84fb91e2ec9756cd",
+                      "size":  724,
+                      "url":  "v2026.05.31.1/ini/tme/line06.TME"
+                  },
+                  {
+                      "path":  "ini/tme/line07.TME",
+                      "sha256":  "9f589f6c894afec064d144e29fbfe9c2229f7b600981f80fd9a6bb8f155f8b1f",
+                      "size":  1156,
+                      "url":  "v2026.05.31.1/ini/tme/line07.TME"
+                  },
+                  {
+                      "path":  "ini/tme/rain01.TME",
+                      "sha256":  "f7694ec8344fc64264f13728305e221a88d9268d00454cc174a120d564c0fe2f",
+                      "size":  2308,
+                      "url":  "v2026.05.31.1/ini/tme/rain01.TME"
+                  },
+                  {
+                      "path":  "ini/tme/rain02.TME",
+                      "sha256":  "e448781b902d877ba466e71d1d0e2e146abe812701b5691b1b972e9c5d25e2ae",
+                      "size":  1732,
+                      "url":  "v2026.05.31.1/ini/tme/rain02.TME"
+                  },
+                  {
+                      "path":  "ini/tme/rain03.TME",
+                      "sha256":  "359d2b2f221f269fba1b14efbfd8bbc88720145f3f15a701d0fcdb43f300326e",
+                      "size":  1732,
+                      "url":  "v2026.05.31.1/ini/tme/rain03.TME"
+                  },
+                  {
+                      "path":  "ini/tme/sector.TME",
+                      "sha256":  "7da11e0147be0a4c7d1db3d624b45b6d17bf6e3546e240195eef233b988d46ac",
+                      "size":  1444,
+                      "url":  "v2026.05.31.1/ini/tme/sector.TME"
+                  },
+                  {
+                      "path":  "ini/tme/sector3.TME",
+                      "sha256":  "abe7a82500438f9cdf2586e6b8bc8de67c15e3fc5e9c42b3d15f3f493c3e4b11",
+                      "size":  292,
+                      "url":  "v2026.05.31.1/ini/tme/sector3.TME"
+                  },
+                  {
+                      "path":  "ini/tme/sector4.TME",
+                      "sha256":  "76ca305617aa9b0093ef3e72bca7700bccb7e0b424e559589e1affd6afcfca41",
+                      "size":  436,
+                      "url":  "v2026.05.31.1/ini/tme/sector4.TME"
+                  },
+                  {
+                      "path":  "ini/tme/sector5.TME",
+                      "sha256":  "88ebe5f1dcd8afc08725370237ab73fefa9ddb83277998a5cf9a1af709c0ba81",
+                      "size":  580,
+                      "url":  "v2026.05.31.1/ini/tme/sector5.TME"
+                  },
+                  {
+                      "path":  "ini/tme/sector6.TME",
+                      "sha256":  "b4f005092d05b0e83b88274b3111bc48b109a8f160638a4909207d5d17b78c49",
+                      "size":  292,
+                      "url":  "v2026.05.31.1/ini/tme/sector6.TME"
+                  },
+                  {
+                      "path":  "ini/tme/sector7.TME",
+                      "sha256":  "611b21a71e402943737d0de5373ee9a10702ac3c347f8f9d23529dda76aa55e2",
+                      "size":  292,
+                      "url":  "v2026.05.31.1/ini/tme/sector7.TME"
+                  },
+                  {
+                      "path":  "ini/tme/star2-b.TME",
+                      "sha256":  "d9c525a56370fa63117fce6645607077e027b4bcd2e7bf1e43dbe7dd31c5121e",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/star2-b.TME"
+                  },
+                  {
+                      "path":  "ini/tme/star2-g.TME",
+                      "sha256":  "bb2460481957355650ac6cb415f147bb93f7cd710e71142befee5134735ac93b",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/star2-g.TME"
+                  },
+                  {
+                      "path":  "ini/tme/star2-r.TME",
+                      "sha256":  "53dfe5bedd6fbd11e8c2db7582af83853db4a9db1862b9acea74f7ac1d9057d3",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/star2-r.TME"
+                  },
+                  {
+                      "path":  "ini/tme/star2-y.TME",
+                      "sha256":  "4d0b688efc46f3a168cf81966643451b305d34f24331faf2f1747d09574fcff7",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/star2-y.TME"
+                  },
+                  {
+                      "path":  "ini/tme/swordrain.TME",
+                      "sha256":  "18a109b9d8affe6af50a9e54fa14fc49300c1ac36d6ebbd7f218cd0184c810c8",
+                      "size":  1012,
+                      "url":  "v2026.05.31.1/ini/tme/swordrain.TME"
+                  },
+                  {
+                      "path":  "ini/tme/swordrain01.TME",
+                      "sha256":  "2c932d8d7b80f4b03bf75298d71de427faaaa236912c00e90701baaf00ebc4b0",
+                      "size":  2452,
+                      "url":  "v2026.05.31.1/ini/tme/swordrain01.TME"
+                  },
+                  {
+                      "path":  "ini/tme/swordrain02.TME",
+                      "sha256":  "4c2c66dcaae3817692866e93d3f2fb06673baa66bb5da9db928618019fed0f9d",
+                      "size":  1156,
+                      "url":  "v2026.05.31.1/ini/tme/swordrain02.TME"
+                  },
+                  {
+                      "path":  "ini/tme/swordrain2.TME",
+                      "sha256":  "3e88764c6645ada8c09a369cd60e157227634d3d2eb2e858b1cc881f61b72ae7",
+                      "size":  1732,
+                      "url":  "v2026.05.31.1/ini/tme/swordrain2.TME"
+                  },
+                  {
+                      "path":  "ini/tme/swordrain4.TME",
+                      "sha256":  "b8e8b6d1975882a495d626ff2f973b16fc69f1e7ff2a1094c98affaaa0390c03",
+                      "size":  868,
+                      "url":  "v2026.05.31.1/ini/tme/swordrain4.TME"
+                  },
+                  {
+                      "path":  "ini/tme/swordrain5.TME",
+                      "sha256":  "c5b43a149e1e8f9493aecd9f4372b6c01756c64307ee9691127cb4c2bc06318f",
+                      "size":  1588,
+                      "url":  "v2026.05.31.1/ini/tme/swordrain5.TME"
+                  },
+                  {
+                      "path":  "ini/tme/swordrain6.TME",
+                      "sha256":  "db669320c49aeb1298fa55f7876a2cc09237c7d800e3e0f4835994a8f7714c94",
+                      "size":  2164,
+                      "url":  "v2026.05.31.1/ini/tme/swordrain6.TME"
+                  },
+                  {
+                      "path":  "ini/tme/swordrain7.TME",
+                      "sha256":  "63c4b039194e5ad8e33300ceb2386a060e26a4439d97b86846da03475ceda936",
+                      "size":  2452,
+                      "url":  "v2026.05.31.1/ini/tme/swordrain7.TME"
+                  },
+                  {
+                      "path":  "ini/tme/swordrain8.TME",
+                      "sha256":  "65d3b03e6f9b2121f81501f4ccdc387d67e78c437363415779fc0afbad187514",
+                      "size":  2884,
+                      "url":  "v2026.05.31.1/ini/tme/swordrain8.TME"
+                  },
+                  {
+                      "path":  "ini/tme/thunder-1.TME",
+                      "sha256":  "f523ed4e65c2fe0bf2c0f0929d43e2f2e29829b17e2c71f2bdde766f46309fec",
+                      "size":  292,
+                      "url":  "v2026.05.31.1/ini/tme/thunder-1.TME"
+                  },
+                  {
+                      "path":  "ini/tme/thunder1-8.TME",
+                      "sha256":  "4444a68838043b290ac0066aeee7871d9ab2e0447251ca541dc98e82e19eb135",
+                      "size":  292,
+                      "url":  "v2026.05.31.1/ini/tme/thunder1-8.TME"
+                  },
+                  {
+                      "path":  "ini/tme/thunder1.TME",
+                      "sha256":  "6c58708cd2a1f0cbe121744838cec53e37198252d6d8048aa5657c51ff5d34e0",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/thunder1.TME"
+                  },
+                  {
+                      "path":  "ini/tme/thunder2.TME",
+                      "sha256":  "502638a54eab0818917dc6efc7ecf1d3127ef88db24d8fe13e461387aa301815",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/thunder2.TME"
+                  },
+                  {
+                      "path":  "ini/tme/windblade.TME",
+                      "sha256":  "d9dfdfeaf3736fa45f47c4c346d22801387b89ae189192049abd670c5902460c",
+                      "size":  1588,
+                      "url":  "v2026.05.31.1/ini/tme/windblade.TME"
+                  },
+                  {
+                      "path":  "ini/tme/windblade4.TME",
+                      "sha256":  "401134e05c33a2418eb24a41ba8a009eb0fbc5e529620e8b6eaeb7c2611d7a0a",
+                      "size":  868,
+                      "url":  "v2026.05.31.1/ini/tme/windblade4.TME"
+                  },
+                  {
+                      "path":  "ini/tme/windblade5.TME",
+                      "sha256":  "9900f9478c1d3b2ca210ae4fd8ffd14eb1db9c09852772666cfe15a5c87938e2",
+                      "size":  1156,
+                      "url":  "v2026.05.31.1/ini/tme/windblade5.TME"
+                  },
+                  {
+                      "path":  "ini/tme/windblade6.TME",
+                      "sha256":  "73d2f1b4cfab19a84408b0c52abd12eb1f7067a17cd851982362f2388f7c7a83",
+                      "size":  1444,
+                      "url":  "v2026.05.31.1/ini/tme/windblade6.TME"
+                  },
+                  {
+                      "path":  "ini/tme/windblade7-1.TME",
+                      "sha256":  "aa4cdb36071c5b25f2db747f8269c48d8badbb548b31ec650e98cefe875612dd",
+                      "size":  1588,
+                      "url":  "v2026.05.31.1/ini/tme/windblade7-1.TME"
+                  },
+                  {
+                      "path":  "ini/tme/windblade7.TME",
+                      "sha256":  "b9360e76df5ec5a9e9cf0781cdbb258bd435e17ca86fc77a69003acb73f0e00b",
+                      "size":  1588,
+                      "url":  "v2026.05.31.1/ini/tme/windblade7.TME"
+                  },
+                  {
+                      "path":  "ini/tme/windblade8.TME",
+                      "sha256":  "45fe00f91f80414c74379eb557ccb05f2fefeda119a1ed05bddebf5ed35f655b",
+                      "size":  1876,
+                      "url":  "v2026.05.31.1/ini/tme/windblade8.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e063.TME",
+                      "sha256":  "156552c996dc367aa1d66f48a27097d69c980008c04e67984a60667bbc062b91",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e063.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e064.TME",
+                      "sha256":  "ceb860290c3ea9c14eec7cb46e412e29fb051229df128cef797eaf93bfca4daf",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e064.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e065.TME",
+                      "sha256":  "fb5073ce0dab7a213ad13363ab6cda4d9f6ca93b853ea0b7f8dc008b4867cac6",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e065.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e066.TME",
+                      "sha256":  "88d8924c7e1d48a14e3e66cbf915a78a3fbba632374da080824591c2ec087e96",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e066.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e067.TME",
+                      "sha256":  "589eb79430b6eca2393d283c2f21b66c0ef60bd482820f72c2cea020f7513ac7",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e067.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e068.TME",
+                      "sha256":  "aa2074d5056196ac1842a8fec19ba2d5ea454faa8a9ec43194d984334b560080",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e068.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e069.TME",
+                      "sha256":  "f9086a3e5d0c682ef66bd32bf68dcbcecfe9fd7d9f3c7b8d1daa8b238b7bc287",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e069.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e070.TME",
+                      "sha256":  "f098c5851ad51079003c7a6180a3bf267b7527d04b8e6336213c2f36c7829948",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e070.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e071.TME",
+                      "sha256":  "db1cdbe0970b7d565fe5cbaca846248e747fa3c15f097059bdd135053715ec91",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e071.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e072.TME",
+                      "sha256":  "c844f951735092457f9fbc1964c4925eb5559e7b0cfc0e78e5793413fc86d00e",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e072.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e248.TME",
+                      "sha256":  "e9521e85c86a26e0c8c60eadd2660ad1cc54a3503cedb5a9231e9ca0c076887b",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e248.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e336.TME",
+                      "sha256":  "96fcfca70f3d6dc7f9a1138cb7caabdbd62caa5fc56c9f41f527acc5dd6945e2",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e336.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e337.TME",
+                      "sha256":  "0afb56f20a4e3943942499d6c5e5052d7422521faa424ef1299bd8cc612e28b6",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e337.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e338.TME",
+                      "sha256":  "36a3d3865fc4b386c13189a0addf35abf0b2c6027cfe7de4bf0a45d435acd72e",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e338.TME"
+                  },
+                  {
+                      "path":  "ini/tme/zf2-e339.TME",
+                      "sha256":  "ffc3ba860d291fe5556a0b65981fe592832cc403a54e1a913b0f068d911be861",
+                      "size":  148,
+                      "url":  "v2026.05.31.1/ini/tme/zf2-e339.TME"
+                  }
+              ],
+    "deletes":  [
+
+                ],
+    "launcher_update":  {
+                            "version":  "1.1.0.0",
+                            "url":  "v2026.05.31.1/launcher/PushConquer.exe",
+                            "sha256":  "03a290b7fcddf73c1c83b40d0f36436527621333d336643b9ab5e15ff4a981ab",
+                            "size":  5851648
+                        },
+    "conquer_exe_patches":  {
+
+                            }
+}
