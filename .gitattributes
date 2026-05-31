@@ -1,0 +1,5 @@
+# Manifest is signed against exact bytes — must stay as written (LF).
+# Other files are game assets (binary) or shouldn't be normalized either.
+* -text
+manifest.json   -text eol=lf
+manifest.json.sig -text eol=lf
