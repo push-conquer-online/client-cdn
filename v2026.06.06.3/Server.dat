@@ -1,0 +1,15 @@
+[Header]
+GroupAmount=1
+Group1=Group11.swf
+GroupHint1=
+
+[Group1]
+ServerAmount=1
+
+Server1=Push
+Ip1=26.116.178.91
+Port1=9958
+ServerName1=Push
+HintWord1= 
+Pic1=Group3/server2.swf
+
